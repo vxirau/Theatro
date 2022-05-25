@@ -2,8 +2,8 @@
 
 const express = require('express');
 const bodyParser = require('body-parser');
-const http = require('http');
 const API_KEY = require('./apiKey');
+const https = require("https");
 
 const server = express();
 server.use(bodyParser.urlencoded({
@@ -14,11 +14,10 @@ server.use(bodyParser.json());
 
 server.post('/get-movie-details', (req, res) => {
 
-    //http://www.omdbapi.com/?i=tt3896198&apikey=1cf6742b
     const movieToSearch = req.body.result && req.body.result.parameters && req.body.result.parameters.movie ? req.body.result.parameters.movie : 'The Godfather';
-    console.log(movieToSearch)
-    const reqUrl = encodeURI(`http://www.omdbapi.com/?t=${movieToSearch}&apikey=${API_KEY}`);
-    http.get(reqUrl, (responseFromAPI) => {
+
+    const reqUrl = encodeURI(`https://www.omdbapi.com/?t=${movieToSearch}&apikey=${API_KEY}`);
+    https.get(reqUrl, (responseFromAPI) => {
         let completeResponse = '';
         responseFromAPI.on('data', (chunk) => {
             completeResponse += chunk;

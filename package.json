@@ -1,7 +1,7 @@
 {
-  "name": "movie_db_webhook",
+  "name": "movie-wedbhook",
+  "description": "Webhook pel chatbot",
   "version": "1.0.0",
-  "description": "A Node Based Webhook that fetches the details of a movie",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -10,11 +10,8 @@
   "keywords": [
     "movieDb",
     "webhook",
-    "nodejs",
-    "siddajmera"
+    "nodejs"
   ],
-  "author": "Siddharth Ajmera (SiddAjmera)",
-  "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.1"
