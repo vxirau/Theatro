@@ -1,0 +1,8031 @@
+[
+    {
+        "value": "Adventure",
+        "synonyms": [
+            "adventure",
+            "Adventure"
+        ]
+    },
+    {
+        "value": "Animation",
+        "synonyms": [
+            "animation",
+            "Animation"
+        ]
+    },
+    {
+        "value": "Children",
+        "synonyms": [
+            "children",
+            "Children"
+        ]
+    },
+    {
+        "value": "Comedy",
+        "synonyms": [
+            "comedy",
+            "Comedy"
+        ]
+    },
+    {
+        "value": "Fantasy",
+        "synonyms": [
+            "fantasy",
+            "Fantasy"
+        ]
+    },
+    {
+        "value": "Romance",
+        "synonyms": [
+            "romance",
+            "Romance"
+        ]
+    },
+    {
+        "value": "Drama",
+        "synonyms": [
+            "drama",
+            "Drama"
+        ]
+    },
+    {
+        "value": "Action",
+        "synonyms": [
+            "action",
+            "Action"
+        ]
+    },
+    {
+        "value": "Crime",
+        "synonyms": [
+            "crime",
+            "Crime"
+        ]
+    },
+    {
+        "value": "Thriller",
+        "synonyms": [
+            "thriller",
+            "Thriller"
+        ]
+    },
+    {
+        "value": "Horror",
+        "synonyms": [
+            "horror",
+            "Horror"
+        ]
+    },
+    {
+        "value": "Mystery",
+        "synonyms": [
+            "mystery",
+            "Mystery"
+        ]
+    },
+    {
+        "value": "Sci-Fi",
+        "synonyms": [
+            "sci-fi",
+            "Sci Fi"
+        ]
+    },
+    {
+        "value": "IMAX",
+        "synonyms": [
+            "imax",
+            "IMAX"
+        ]
+    },
+    {
+        "value": "Documentary",
+        "synonyms": [
+            "documentary",
+            "Documentary"
+        ]
+    },
+    {
+        "value": "War",
+        "synonyms": [
+            "war",
+            "War"
+        ]
+    },
+    {
+        "value": "Musical",
+        "synonyms": [
+            "musical",
+            "Musical"
+        ]
+    },
+    {
+        "value": "Western",
+        "synonyms": [
+            "western",
+            "Western"
+        ]
+    },
+    {
+        "value": "Film-Noir",
+        "synonyms": [
+            "film-noir",
+            "Film Noir"
+        ]
+    },
+    {
+        "value": "007",
+        "synonyms": [
+            "007",
+            "007"
+        ]
+    },
+    {
+        "value": "007 (series)",
+        "synonyms": [
+            "007 (series)",
+            "007 (series)"
+        ]
+    },
+    {
+        "value": "18th century",
+        "synonyms": [
+            "18th century",
+            "18th century"
+        ]
+    },
+    {
+        "value": "1920s",
+        "synonyms": [
+            "1920s",
+            "1920s"
+        ]
+    },
+    {
+        "value": "1930s",
+        "synonyms": [
+            "1930s",
+            "1930s"
+        ]
+    },
+    {
+        "value": "1950s",
+        "synonyms": [
+            "1950s",
+            "1950s"
+        ]
+    },
+    {
+        "value": "1960s",
+        "synonyms": [
+            "1960s",
+            "1960s"
+        ]
+    },
+    {
+        "value": "1970s",
+        "synonyms": [
+            "1970s",
+            "1970s"
+        ]
+    },
+    {
+        "value": "1980s",
+        "synonyms": [
+            "1980s",
+            "1980s"
+        ]
+    },
+    {
+        "value": "19th century",
+        "synonyms": [
+            "19th century",
+            "19th century"
+        ]
+    },
+    {
+        "value": "3d",
+        "synonyms": [
+            "3d",
+            "3d"
+        ]
+    },
+    {
+        "value": "70mm",
+        "synonyms": [
+            "70mm",
+            "70mm"
+        ]
+    },
+    {
+        "value": "80s",
+        "synonyms": [
+            "80s",
+            "80s"
+        ]
+    },
+    {
+        "value": "9/11",
+        "synonyms": [
+            "9/11",
+            "9/11"
+        ]
+    },
+    {
+        "value": "aardman",
+        "synonyms": [
+            "aardman",
+            "aardman"
+        ]
+    },
+    {
+        "value": "aardman studios",
+        "synonyms": [
+            "aardman studios",
+            "aardman studios"
+        ]
+    },
+    {
+        "value": "abortion",
+        "synonyms": [
+            "abortion",
+            "abortion"
+        ]
+    },
+    {
+        "value": "absurd",
+        "synonyms": [
+            "absurd",
+            "absurd"
+        ]
+    },
+    {
+        "value": "action",
+        "synonyms": [
+            "action",
+            "action"
+        ]
+    },
+    {
+        "value": "action packed",
+        "synonyms": [
+            "action packed",
+            "action packed"
+        ]
+    },
+    {
+        "value": "adaptation",
+        "synonyms": [
+            "adaptation",
+            "adaptation"
+        ]
+    },
+    {
+        "value": "adapted from:book",
+        "synonyms": [
+            "adapted from:book",
+            "adapted from:book"
+        ]
+    },
+    {
+        "value": "adapted from:comic",
+        "synonyms": [
+            "adapted from:comic",
+            "adapted from:comic"
+        ]
+    },
+    {
+        "value": "adapted from:game",
+        "synonyms": [
+            "adapted from:game",
+            "adapted from:game"
+        ]
+    },
+    {
+        "value": "addiction",
+        "synonyms": [
+            "addiction",
+            "addiction"
+        ]
+    },
+    {
+        "value": "adolescence",
+        "synonyms": [
+            "adolescence",
+            "adolescence"
+        ]
+    },
+    {
+        "value": "adoption",
+        "synonyms": [
+            "adoption",
+            "adoption"
+        ]
+    },
+    {
+        "value": "adultery",
+        "synonyms": [
+            "adultery",
+            "adultery"
+        ]
+    },
+    {
+        "value": "adventure",
+        "synonyms": [
+            "adventure",
+            "adventure"
+        ]
+    },
+    {
+        "value": "affectionate",
+        "synonyms": [
+            "affectionate",
+            "affectionate"
+        ]
+    },
+    {
+        "value": "afi 100",
+        "synonyms": [
+            "afi 100",
+            "afi 100"
+        ]
+    },
+    {
+        "value": "afi 100 (laughs)",
+        "synonyms": [
+            "afi 100 (laughs)",
+            "afi 100 (laughs)"
+        ]
+    },
+    {
+        "value": "afi 100 (movie quotes)",
+        "synonyms": [
+            "afi 100 (movie quotes)",
+            "afi 100 (movie quotes)"
+        ]
+    },
+    {
+        "value": "africa",
+        "synonyms": [
+            "africa",
+            "africa"
+        ]
+    },
+    {
+        "value": "afterlife",
+        "synonyms": [
+            "afterlife",
+            "afterlife"
+        ]
+    },
+    {
+        "value": "aging",
+        "synonyms": [
+            "aging",
+            "aging"
+        ]
+    },
+    {
+        "value": "aids",
+        "synonyms": [
+            "aids",
+            "aids"
+        ]
+    },
+    {
+        "value": "airplane",
+        "synonyms": [
+            "airplane",
+            "airplane"
+        ]
+    },
+    {
+        "value": "airport",
+        "synonyms": [
+            "airport",
+            "airport"
+        ]
+    },
+    {
+        "value": "alaska",
+        "synonyms": [
+            "alaska",
+            "alaska"
+        ]
+    },
+    {
+        "value": "alcatraz",
+        "synonyms": [
+            "alcatraz",
+            "alcatraz"
+        ]
+    },
+    {
+        "value": "alcoholism",
+        "synonyms": [
+            "alcoholism",
+            "alcoholism"
+        ]
+    },
+    {
+        "value": "alien",
+        "synonyms": [
+            "alien",
+            "alien"
+        ]
+    },
+    {
+        "value": "alien invasion",
+        "synonyms": [
+            "alien invasion",
+            "alien invasion"
+        ]
+    },
+    {
+        "value": "aliens",
+        "synonyms": [
+            "aliens",
+            "aliens"
+        ]
+    },
+    {
+        "value": "allegory",
+        "synonyms": [
+            "allegory",
+            "allegory"
+        ]
+    },
+    {
+        "value": "almodovar",
+        "synonyms": [
+            "almodovar",
+            "almodovar"
+        ]
+    },
+    {
+        "value": "alone in the world",
+        "synonyms": [
+            "alone in the world",
+            "alone in the world"
+        ]
+    },
+    {
+        "value": "alter ego",
+        "synonyms": [
+            "alter ego",
+            "alter ego"
+        ]
+    },
+    {
+        "value": "alternate endings",
+        "synonyms": [
+            "alternate endings",
+            "alternate endings"
+        ]
+    },
+    {
+        "value": "alternate history",
+        "synonyms": [
+            "alternate history",
+            "alternate history"
+        ]
+    },
+    {
+        "value": "alternate reality",
+        "synonyms": [
+            "alternate reality",
+            "alternate reality"
+        ]
+    },
+    {
+        "value": "alternate universe",
+        "synonyms": [
+            "alternate universe",
+            "alternate universe"
+        ]
+    },
+    {
+        "value": "amazing cinematography",
+        "synonyms": [
+            "amazing cinematography",
+            "amazing cinematography"
+        ]
+    },
+    {
+        "value": "amazing photography",
+        "synonyms": [
+            "amazing photography",
+            "amazing photography"
+        ]
+    },
+    {
+        "value": "american civil war",
+        "synonyms": [
+            "american civil war",
+            "american civil war"
+        ]
+    },
+    {
+        "value": "amnesia",
+        "synonyms": [
+            "amnesia",
+            "amnesia"
+        ]
+    },
+    {
+        "value": "amy smart",
+        "synonyms": [
+            "amy smart",
+            "amy smart"
+        ]
+    },
+    {
+        "value": "android(s)/cyborg(s)",
+        "synonyms": [
+            "android(s)/cyborg(s)",
+            "android(s)/cyborg(s)"
+        ]
+    },
+    {
+        "value": "androids",
+        "synonyms": [
+            "androids",
+            "androids"
+        ]
+    },
+    {
+        "value": "animal movie",
+        "synonyms": [
+            "animal movie",
+            "animal movie"
+        ]
+    },
+    {
+        "value": "animals",
+        "synonyms": [
+            "animals",
+            "animals"
+        ]
+    },
+    {
+        "value": "animated",
+        "synonyms": [
+            "animated",
+            "animated"
+        ]
+    },
+    {
+        "value": "animation",
+        "synonyms": [
+            "animation",
+            "animation"
+        ]
+    },
+    {
+        "value": "anime",
+        "synonyms": [
+            "anime",
+            "anime"
+        ]
+    },
+    {
+        "value": "antarctica",
+        "synonyms": [
+            "antarctica",
+            "antarctica"
+        ]
+    },
+    {
+        "value": "anti-hero",
+        "synonyms": [
+            "anti-hero",
+            "anti hero"
+        ]
+    },
+    {
+        "value": "anti-semitism",
+        "synonyms": [
+            "anti-semitism",
+            "anti semitism"
+        ]
+    },
+    {
+        "value": "anti-war",
+        "synonyms": [
+            "anti-war",
+            "anti war"
+        ]
+    },
+    {
+        "value": "apocalypse",
+        "synonyms": [
+            "apocalypse",
+            "apocalypse"
+        ]
+    },
+    {
+        "value": "archaeology",
+        "synonyms": [
+            "archaeology",
+            "archaeology"
+        ]
+    },
+    {
+        "value": "argentina",
+        "synonyms": [
+            "argentina",
+            "argentina"
+        ]
+    },
+    {
+        "value": "arms dealer",
+        "synonyms": [
+            "arms dealer",
+            "arms dealer"
+        ]
+    },
+    {
+        "value": "arnold",
+        "synonyms": [
+            "arnold",
+            "arnold"
+        ]
+    },
+    {
+        "value": "art",
+        "synonyms": [
+            "art",
+            "art"
+        ]
+    },
+    {
+        "value": "art house",
+        "synonyms": [
+            "art house",
+            "art house"
+        ]
+    },
+    {
+        "value": "artificial intelligence",
+        "synonyms": [
+            "artificial intelligence",
+            "artificial intelligence"
+        ]
+    },
+    {
+        "value": "artist",
+        "synonyms": [
+            "artist",
+            "artist"
+        ]
+    },
+    {
+        "value": "artistic",
+        "synonyms": [
+            "artistic",
+            "artistic"
+        ]
+    },
+    {
+        "value": "artsy",
+        "synonyms": [
+            "artsy",
+            "artsy"
+        ]
+    },
+    {
+        "value": "assassin",
+        "synonyms": [
+            "assassin",
+            "assassin"
+        ]
+    },
+    {
+        "value": "assassination",
+        "synonyms": [
+            "assassination",
+            "assassination"
+        ]
+    },
+    {
+        "value": "assassins",
+        "synonyms": [
+            "assassins",
+            "assassins"
+        ]
+    },
+    {
+        "value": "astronauts",
+        "synonyms": [
+            "astronauts",
+            "astronauts"
+        ]
+    },
+    {
+        "value": "atheism",
+        "synonyms": [
+            "atheism",
+            "atheism"
+        ]
+    },
+    {
+        "value": "atmospheric",
+        "synonyms": [
+            "atmospheric",
+            "atmospheric"
+        ]
+    },
+    {
+        "value": "australia",
+        "synonyms": [
+            "australia",
+            "australia"
+        ]
+    },
+    {
+        "value": "australian",
+        "synonyms": [
+            "australian",
+            "australian"
+        ]
+    },
+    {
+        "value": "author:alan moore",
+        "synonyms": [
+            "author:alan moore",
+            "author:alan moore"
+        ]
+    },
+    {
+        "value": "author:neil gaiman",
+        "synonyms": [
+            "author:neil gaiman",
+            "author:neil gaiman"
+        ]
+    },
+    {
+        "value": "autism",
+        "synonyms": [
+            "autism",
+            "autism"
+        ]
+    },
+    {
+        "value": "aviation",
+        "synonyms": [
+            "aviation",
+            "aviation"
+        ]
+    },
+    {
+        "value": "awesome",
+        "synonyms": [
+            "awesome",
+            "awesome"
+        ]
+    },
+    {
+        "value": "awesome soundtrack",
+        "synonyms": [
+            "awesome soundtrack",
+            "awesome soundtrack"
+        ]
+    },
+    {
+        "value": "awful",
+        "synonyms": [
+            "awful",
+            "awful"
+        ]
+    },
+    {
+        "value": "bad",
+        "synonyms": [
+            "bad",
+            "bad"
+        ]
+    },
+    {
+        "value": "bad acting",
+        "synonyms": [
+            "bad acting",
+            "bad acting"
+        ]
+    },
+    {
+        "value": "bad cgi",
+        "synonyms": [
+            "bad cgi",
+            "bad cgi"
+        ]
+    },
+    {
+        "value": "bad ending",
+        "synonyms": [
+            "bad ending",
+            "bad ending"
+        ]
+    },
+    {
+        "value": "bad plot",
+        "synonyms": [
+            "bad plot",
+            "bad plot"
+        ]
+    },
+    {
+        "value": "bad science",
+        "synonyms": [
+            "bad science",
+            "bad science"
+        ]
+    },
+    {
+        "value": "bad script",
+        "synonyms": [
+            "bad script",
+            "bad script"
+        ]
+    },
+    {
+        "value": "bad sequel",
+        "synonyms": [
+            "bad sequel",
+            "bad sequel"
+        ]
+    },
+    {
+        "value": "ballet",
+        "synonyms": [
+            "ballet",
+            "ballet"
+        ]
+    },
+    {
+        "value": "bank robbery",
+        "synonyms": [
+            "bank robbery",
+            "bank robbery"
+        ]
+    },
+    {
+        "value": "baseball",
+        "synonyms": [
+            "baseball",
+            "baseball"
+        ]
+    },
+    {
+        "value": "based on a book",
+        "synonyms": [
+            "based on a book",
+            "based on a book"
+        ]
+    },
+    {
+        "value": "based on a comic",
+        "synonyms": [
+            "based on a comic",
+            "based on a comic"
+        ]
+    },
+    {
+        "value": "based on a play",
+        "synonyms": [
+            "based on a play",
+            "based on a play"
+        ]
+    },
+    {
+        "value": "based on a true story",
+        "synonyms": [
+            "based on a true story",
+            "based on a true story"
+        ]
+    },
+    {
+        "value": "based on a tv show",
+        "synonyms": [
+            "based on a tv show",
+            "based on a tv show"
+        ]
+    },
+    {
+        "value": "based on a video game",
+        "synonyms": [
+            "based on a video game",
+            "based on a video game"
+        ]
+    },
+    {
+        "value": "based on book",
+        "synonyms": [
+            "based on book",
+            "based on book"
+        ]
+    },
+    {
+        "value": "based on comic",
+        "synonyms": [
+            "based on comic",
+            "based on comic"
+        ]
+    },
+    {
+        "value": "based on true story",
+        "synonyms": [
+            "based on true story",
+            "based on true story"
+        ]
+    },
+    {
+        "value": "basketball",
+        "synonyms": [
+            "basketball",
+            "basketball"
+        ]
+    },
+    {
+        "value": "batman",
+        "synonyms": [
+            "batman",
+            "batman"
+        ]
+    },
+    {
+        "value": "bdsm",
+        "synonyms": [
+            "bdsm",
+            "bdsm"
+        ]
+    },
+    {
+        "value": "beatles",
+        "synonyms": [
+            "beatles",
+            "beatles"
+        ]
+    },
+    {
+        "value": "beautiful",
+        "synonyms": [
+            "beautiful",
+            "beautiful"
+        ]
+    },
+    {
+        "value": "beautiful scenery",
+        "synonyms": [
+            "beautiful scenery",
+            "beautiful scenery"
+        ]
+    },
+    {
+        "value": "beautifully filmed",
+        "synonyms": [
+            "beautifully filmed",
+            "beautifully filmed"
+        ]
+    },
+    {
+        "value": "beauty pageant",
+        "synonyms": [
+            "beauty pageant",
+            "beauty pageant"
+        ]
+    },
+    {
+        "value": "beer",
+        "synonyms": [
+            "beer",
+            "beer"
+        ]
+    },
+    {
+        "value": "berlin",
+        "synonyms": [
+            "berlin",
+            "berlin"
+        ]
+    },
+    {
+        "value": "best of 2005",
+        "synonyms": [
+            "best of 2005",
+            "best of 2005"
+        ]
+    },
+    {
+        "value": "best war films",
+        "synonyms": [
+            "best war films",
+            "best war films"
+        ]
+    },
+    {
+        "value": "betrayal",
+        "synonyms": [
+            "betrayal",
+            "betrayal"
+        ]
+    },
+    {
+        "value": "better than expected",
+        "synonyms": [
+            "better than expected",
+            "better than expected"
+        ]
+    },
+    {
+        "value": "better than the american version",
+        "synonyms": [
+            "better than the american version",
+            "better than the american version"
+        ]
+    },
+    {
+        "value": "biblical",
+        "synonyms": [
+            "biblical",
+            "biblical"
+        ]
+    },
+    {
+        "value": "big budget",
+        "synonyms": [
+            "big budget",
+            "big budget"
+        ]
+    },
+    {
+        "value": "biographical",
+        "synonyms": [
+            "biographical",
+            "biographical"
+        ]
+    },
+    {
+        "value": "biography",
+        "synonyms": [
+            "biography",
+            "biography"
+        ]
+    },
+    {
+        "value": "biopic",
+        "synonyms": [
+            "biopic",
+            "biopic"
+        ]
+    },
+    {
+        "value": "birds",
+        "synonyms": [
+            "birds",
+            "birds"
+        ]
+    },
+    {
+        "value": "biting",
+        "synonyms": [
+            "biting",
+            "biting"
+        ]
+    },
+    {
+        "value": "bittersweet",
+        "synonyms": [
+            "bittersweet",
+            "bittersweet"
+        ]
+    },
+    {
+        "value": "bizarre",
+        "synonyms": [
+            "bizarre",
+            "bizarre"
+        ]
+    },
+    {
+        "value": "black and white",
+        "synonyms": [
+            "black and white",
+            "black and white"
+        ]
+    },
+    {
+        "value": "black comedy",
+        "synonyms": [
+            "black comedy",
+            "black comedy"
+        ]
+    },
+    {
+        "value": "blaxploitation",
+        "synonyms": [
+            "blaxploitation",
+            "blaxploitation"
+        ]
+    },
+    {
+        "value": "bleak",
+        "synonyms": [
+            "bleak",
+            "bleak"
+        ]
+    },
+    {
+        "value": "blindness",
+        "synonyms": [
+            "blindness",
+            "blindness"
+        ]
+    },
+    {
+        "value": "blood",
+        "synonyms": [
+            "blood",
+            "blood"
+        ]
+    },
+    {
+        "value": "bloody",
+        "synonyms": [
+            "bloody",
+            "bloody"
+        ]
+    },
+    {
+        "value": "boarding school",
+        "synonyms": [
+            "boarding school",
+            "boarding school"
+        ]
+    },
+    {
+        "value": "boat",
+        "synonyms": [
+            "boat",
+            "boat"
+        ]
+    },
+    {
+        "value": "bollywood",
+        "synonyms": [
+            "bollywood",
+            "bollywood"
+        ]
+    },
+    {
+        "value": "bombs",
+        "synonyms": [
+            "bombs",
+            "bombs"
+        ]
+    },
+    {
+        "value": "bond",
+        "synonyms": [
+            "bond",
+            "bond"
+        ]
+    },
+    {
+        "value": "book",
+        "synonyms": [
+            "book",
+            "book"
+        ]
+    },
+    {
+        "value": "book was better",
+        "synonyms": [
+            "book was better",
+            "book was better"
+        ]
+    },
+    {
+        "value": "books",
+        "synonyms": [
+            "books",
+            "books"
+        ]
+    },
+    {
+        "value": "boring",
+        "synonyms": [
+            "boring",
+            "boring"
+        ]
+    },
+    {
+        "value": "boring!",
+        "synonyms": [
+            "boring!",
+            "boring!"
+        ]
+    },
+    {
+        "value": "boston",
+        "synonyms": [
+            "boston",
+            "boston"
+        ]
+    },
+    {
+        "value": "bowling",
+        "synonyms": [
+            "bowling",
+            "bowling"
+        ]
+    },
+    {
+        "value": "boxing",
+        "synonyms": [
+            "boxing",
+            "boxing"
+        ]
+    },
+    {
+        "value": "brainwashing",
+        "synonyms": [
+            "brainwashing",
+            "brainwashing"
+        ]
+    },
+    {
+        "value": "brazil",
+        "synonyms": [
+            "brazil",
+            "brazil"
+        ]
+    },
+    {
+        "value": "breathtaking",
+        "synonyms": [
+            "breathtaking",
+            "breathtaking"
+        ]
+    },
+    {
+        "value": "brilliant",
+        "synonyms": [
+            "brilliant",
+            "brilliant"
+        ]
+    },
+    {
+        "value": "british",
+        "synonyms": [
+            "british",
+            "british"
+        ]
+    },
+    {
+        "value": "british comedy",
+        "synonyms": [
+            "british comedy",
+            "british comedy"
+        ]
+    },
+    {
+        "value": "broadway",
+        "synonyms": [
+            "broadway",
+            "broadway"
+        ]
+    },
+    {
+        "value": "brothers",
+        "synonyms": [
+            "brothers",
+            "brothers"
+        ]
+    },
+    {
+        "value": "brutal",
+        "synonyms": [
+            "brutal",
+            "brutal"
+        ]
+    },
+    {
+        "value": "brutality",
+        "synonyms": [
+            "brutality",
+            "brutality"
+        ]
+    },
+    {
+        "value": "buddy movie",
+        "synonyms": [
+            "buddy movie",
+            "buddy movie"
+        ]
+    },
+    {
+        "value": "bullshit history",
+        "synonyms": [
+            "bullshit history",
+            "bullshit history"
+        ]
+    },
+    {
+        "value": "bullying",
+        "synonyms": [
+            "bullying",
+            "bullying"
+        ]
+    },
+    {
+        "value": "business",
+        "synonyms": [
+            "business",
+            "business"
+        ]
+    },
+    {
+        "value": "c.s. lewis",
+        "synonyms": [
+            "c.s. lewis",
+            "c.s. lewis"
+        ]
+    },
+    {
+        "value": "california",
+        "synonyms": [
+            "california",
+            "california"
+        ]
+    },
+    {
+        "value": "camp",
+        "synonyms": [
+            "camp",
+            "camp"
+        ]
+    },
+    {
+        "value": "campy",
+        "synonyms": [
+            "campy",
+            "campy"
+        ]
+    },
+    {
+        "value": "canada",
+        "synonyms": [
+            "canada",
+            "canada"
+        ]
+    },
+    {
+        "value": "cancer",
+        "synonyms": [
+            "cancer",
+            "cancer"
+        ]
+    },
+    {
+        "value": "cannibalism",
+        "synonyms": [
+            "cannibalism",
+            "cannibalism"
+        ]
+    },
+    {
+        "value": "caper",
+        "synonyms": [
+            "caper",
+            "caper"
+        ]
+    },
+    {
+        "value": "capitalism",
+        "synonyms": [
+            "capitalism",
+            "capitalism"
+        ]
+    },
+    {
+        "value": "car chase",
+        "synonyms": [
+            "car chase",
+            "car chase"
+        ]
+    },
+    {
+        "value": "carrie-anne moss",
+        "synonyms": [
+            "carrie-anne moss",
+            "carrie anne moss"
+        ]
+    },
+    {
+        "value": "cars",
+        "synonyms": [
+            "cars",
+            "cars"
+        ]
+    },
+    {
+        "value": "cartoon",
+        "synonyms": [
+            "cartoon",
+            "cartoon"
+        ]
+    },
+    {
+        "value": "casino",
+        "synonyms": [
+            "casino",
+            "casino"
+        ]
+    },
+    {
+        "value": "catastrophe",
+        "synonyms": [
+            "catastrophe",
+            "catastrophe"
+        ]
+    },
+    {
+        "value": "cathartic",
+        "synonyms": [
+            "cathartic",
+            "cathartic"
+        ]
+    },
+    {
+        "value": "catholicism",
+        "synonyms": [
+            "catholicism",
+            "catholicism"
+        ]
+    },
+    {
+        "value": "censorship",
+        "synonyms": [
+            "censorship",
+            "censorship"
+        ]
+    },
+    {
+        "value": "cerebral",
+        "synonyms": [
+            "cerebral",
+            "cerebral"
+        ]
+    },
+    {
+        "value": "cgi",
+        "synonyms": [
+            "cgi",
+            "cgi"
+        ]
+    },
+    {
+        "value": "character study",
+        "synonyms": [
+            "character study",
+            "character study"
+        ]
+    },
+    {
+        "value": "chase",
+        "synonyms": [
+            "chase",
+            "chase"
+        ]
+    },
+    {
+        "value": "cheating",
+        "synonyms": [
+            "cheating",
+            "cheating"
+        ]
+    },
+    {
+        "value": "cheerleading",
+        "synonyms": [
+            "cheerleading",
+            "cheerleading"
+        ]
+    },
+    {
+        "value": "cheesy",
+        "synonyms": [
+            "cheesy",
+            "cheesy"
+        ]
+    },
+    {
+        "value": "chess",
+        "synonyms": [
+            "chess",
+            "chess"
+        ]
+    },
+    {
+        "value": "chicago",
+        "synonyms": [
+            "chicago",
+            "chicago"
+        ]
+    },
+    {
+        "value": "chick flick",
+        "synonyms": [
+            "chick flick",
+            "chick flick"
+        ]
+    },
+    {
+        "value": "child abuse",
+        "synonyms": [
+            "child abuse",
+            "child abuse"
+        ]
+    },
+    {
+        "value": "childhood",
+        "synonyms": [
+            "childhood",
+            "childhood"
+        ]
+    },
+    {
+        "value": "children",
+        "synonyms": [
+            "children",
+            "children"
+        ]
+    },
+    {
+        "value": "china",
+        "synonyms": [
+            "china",
+            "china"
+        ]
+    },
+    {
+        "value": "chocolate",
+        "synonyms": [
+            "chocolate",
+            "chocolate"
+        ]
+    },
+    {
+        "value": "chris tucker",
+        "synonyms": [
+            "chris tucker",
+            "chris tucker"
+        ]
+    },
+    {
+        "value": "christian",
+        "synonyms": [
+            "christian",
+            "christian"
+        ]
+    },
+    {
+        "value": "christianity",
+        "synonyms": [
+            "christianity",
+            "christianity"
+        ]
+    },
+    {
+        "value": "christmas",
+        "synonyms": [
+            "christmas",
+            "christmas"
+        ]
+    },
+    {
+        "value": "cia",
+        "synonyms": [
+            "cia",
+            "cia"
+        ]
+    },
+    {
+        "value": "cinematography",
+        "synonyms": [
+            "cinematography",
+            "cinematography"
+        ]
+    },
+    {
+        "value": "circus",
+        "synonyms": [
+            "circus",
+            "circus"
+        ]
+    },
+    {
+        "value": "civil war",
+        "synonyms": [
+            "civil war",
+            "civil war"
+        ]
+    },
+    {
+        "value": "classic",
+        "synonyms": [
+            "classic",
+            "classic"
+        ]
+    },
+    {
+        "value": "classic car",
+        "synonyms": [
+            "classic car",
+            "classic car"
+        ]
+    },
+    {
+        "value": "classical music",
+        "synonyms": [
+            "classical music",
+            "classical music"
+        ]
+    },
+    {
+        "value": "claustrophobic",
+        "synonyms": [
+            "claustrophobic",
+            "claustrophobic"
+        ]
+    },
+    {
+        "value": "claymation",
+        "synonyms": [
+            "claymation",
+            "claymation"
+        ]
+    },
+    {
+        "value": "clever",
+        "synonyms": [
+            "clever",
+            "clever"
+        ]
+    },
+    {
+        "value": "clones",
+        "synonyms": [
+            "clones",
+            "clones"
+        ]
+    },
+    {
+        "value": "cloning",
+        "synonyms": [
+            "cloning",
+            "cloning"
+        ]
+    },
+    {
+        "value": "clowns",
+        "synonyms": [
+            "clowns",
+            "clowns"
+        ]
+    },
+    {
+        "value": "coen bros",
+        "synonyms": [
+            "coen bros",
+            "coen bros"
+        ]
+    },
+    {
+        "value": "coen brothers",
+        "synonyms": [
+            "coen brothers",
+            "coen brothers"
+        ]
+    },
+    {
+        "value": "cold war",
+        "synonyms": [
+            "cold war",
+            "cold war"
+        ]
+    },
+    {
+        "value": "college",
+        "synonyms": [
+            "college",
+            "college"
+        ]
+    },
+    {
+        "value": "colonialism",
+        "synonyms": [
+            "colonialism",
+            "colonialism"
+        ]
+    },
+    {
+        "value": "colourful",
+        "synonyms": [
+            "colourful",
+            "colourful"
+        ]
+    },
+    {
+        "value": "comedy",
+        "synonyms": [
+            "comedy",
+            "comedy"
+        ]
+    },
+    {
+        "value": "comic",
+        "synonyms": [
+            "comic",
+            "comic"
+        ]
+    },
+    {
+        "value": "comic book",
+        "synonyms": [
+            "comic book",
+            "comic book"
+        ]
+    },
+    {
+        "value": "comic book adaption",
+        "synonyms": [
+            "comic book adaption",
+            "comic book adaption"
+        ]
+    },
+    {
+        "value": "comics",
+        "synonyms": [
+            "comics",
+            "comics"
+        ]
+    },
+    {
+        "value": "coming of age",
+        "synonyms": [
+            "coming of age",
+            "coming of age"
+        ]
+    },
+    {
+        "value": "coming-of-age",
+        "synonyms": [
+            "coming-of-age",
+            "coming of age"
+        ]
+    },
+    {
+        "value": "communism",
+        "synonyms": [
+            "communism",
+            "communism"
+        ]
+    },
+    {
+        "value": "compassionate",
+        "synonyms": [
+            "compassionate",
+            "compassionate"
+        ]
+    },
+    {
+        "value": "competition",
+        "synonyms": [
+            "competition",
+            "competition"
+        ]
+    },
+    {
+        "value": "complex",
+        "synonyms": [
+            "complex",
+            "complex"
+        ]
+    },
+    {
+        "value": "complex characters",
+        "synonyms": [
+            "complex characters",
+            "complex characters"
+        ]
+    },
+    {
+        "value": "complicated",
+        "synonyms": [
+            "complicated",
+            "complicated"
+        ]
+    },
+    {
+        "value": "complicated plot",
+        "synonyms": [
+            "complicated plot",
+            "complicated plot"
+        ]
+    },
+    {
+        "value": "computer animation",
+        "synonyms": [
+            "computer animation",
+            "computer animation"
+        ]
+    },
+    {
+        "value": "computer game",
+        "synonyms": [
+            "computer game",
+            "computer game"
+        ]
+    },
+    {
+        "value": "computers",
+        "synonyms": [
+            "computers",
+            "computers"
+        ]
+    },
+    {
+        "value": "con artists",
+        "synonyms": [
+            "con artists",
+            "con artists"
+        ]
+    },
+    {
+        "value": "con men",
+        "synonyms": [
+            "con men",
+            "con men"
+        ]
+    },
+    {
+        "value": "confrontational",
+        "synonyms": [
+            "confrontational",
+            "confrontational"
+        ]
+    },
+    {
+        "value": "confusing",
+        "synonyms": [
+            "confusing",
+            "confusing"
+        ]
+    },
+    {
+        "value": "conspiracy",
+        "synonyms": [
+            "conspiracy",
+            "conspiracy"
+        ]
+    },
+    {
+        "value": "conspiracy theory",
+        "synonyms": [
+            "conspiracy theory",
+            "conspiracy theory"
+        ]
+    },
+    {
+        "value": "controversial",
+        "synonyms": [
+            "controversial",
+            "controversial"
+        ]
+    },
+    {
+        "value": "cooking",
+        "synonyms": [
+            "cooking",
+            "cooking"
+        ]
+    },
+    {
+        "value": "cool",
+        "synonyms": [
+            "cool",
+            "cool"
+        ]
+    },
+    {
+        "value": "corny",
+        "synonyms": [
+            "corny",
+            "corny"
+        ]
+    },
+    {
+        "value": "corporate america",
+        "synonyms": [
+            "corporate america",
+            "corporate america"
+        ]
+    },
+    {
+        "value": "corruption",
+        "synonyms": [
+            "corruption",
+            "corruption"
+        ]
+    },
+    {
+        "value": "costume drama",
+        "synonyms": [
+            "costume drama",
+            "costume drama"
+        ]
+    },
+    {
+        "value": "courage",
+        "synonyms": [
+            "courage",
+            "courage"
+        ]
+    },
+    {
+        "value": "court",
+        "synonyms": [
+            "court",
+            "court"
+        ]
+    },
+    {
+        "value": "courtroom",
+        "synonyms": [
+            "courtroom",
+            "courtroom"
+        ]
+    },
+    {
+        "value": "courtroom drama",
+        "synonyms": [
+            "courtroom drama",
+            "courtroom drama"
+        ]
+    },
+    {
+        "value": "crappy sequel",
+        "synonyms": [
+            "crappy sequel",
+            "crappy sequel"
+        ]
+    },
+    {
+        "value": "crazy",
+        "synonyms": [
+            "crazy",
+            "crazy"
+        ]
+    },
+    {
+        "value": "creativity",
+        "synonyms": [
+            "creativity",
+            "creativity"
+        ]
+    },
+    {
+        "value": "creepy",
+        "synonyms": [
+            "creepy",
+            "creepy"
+        ]
+    },
+    {
+        "value": "crime",
+        "synonyms": [
+            "crime",
+            "crime"
+        ]
+    },
+    {
+        "value": "crime gone awry",
+        "synonyms": [
+            "crime gone awry",
+            "crime gone awry"
+        ]
+    },
+    {
+        "value": "criterion",
+        "synonyms": [
+            "criterion",
+            "criterion"
+        ]
+    },
+    {
+        "value": "cross dressing",
+        "synonyms": [
+            "cross dressing",
+            "cross dressing"
+        ]
+    },
+    {
+        "value": "crude humor",
+        "synonyms": [
+            "crude humor",
+            "crude humor"
+        ]
+    },
+    {
+        "value": "cuba",
+        "synonyms": [
+            "cuba",
+            "cuba"
+        ]
+    },
+    {
+        "value": "cult",
+        "synonyms": [
+            "cult",
+            "cult"
+        ]
+    },
+    {
+        "value": "cult classic",
+        "synonyms": [
+            "cult classic",
+            "cult classic"
+        ]
+    },
+    {
+        "value": "cult film",
+        "synonyms": [
+            "cult film",
+            "cult film"
+        ]
+    },
+    {
+        "value": "culture clash",
+        "synonyms": [
+            "culture clash",
+            "culture clash"
+        ]
+    },
+    {
+        "value": "cute",
+        "synonyms": [
+            "cute",
+            "cute"
+        ]
+    },
+    {
+        "value": "cute!",
+        "synonyms": [
+            "cute!",
+            "cute!"
+        ]
+    },
+    {
+        "value": "cyberpunk",
+        "synonyms": [
+            "cyberpunk",
+            "cyberpunk"
+        ]
+    },
+    {
+        "value": "cyborgs",
+        "synonyms": [
+            "cyborgs",
+            "cyborgs"
+        ]
+    },
+    {
+        "value": "cynical",
+        "synonyms": [
+            "cynical",
+            "cynical"
+        ]
+    },
+    {
+        "value": "dance",
+        "synonyms": [
+            "dance",
+            "dance"
+        ]
+    },
+    {
+        "value": "dancing",
+        "synonyms": [
+            "dancing",
+            "dancing"
+        ]
+    },
+    {
+        "value": "dark",
+        "synonyms": [
+            "dark",
+            "dark"
+        ]
+    },
+    {
+        "value": "dark comedy",
+        "synonyms": [
+            "dark comedy",
+            "dark comedy"
+        ]
+    },
+    {
+        "value": "dark fantasy",
+        "synonyms": [
+            "dark fantasy",
+            "dark fantasy"
+        ]
+    },
+    {
+        "value": "dark hero",
+        "synonyms": [
+            "dark hero",
+            "dark hero"
+        ]
+    },
+    {
+        "value": "dark humor",
+        "synonyms": [
+            "dark humor",
+            "dark humor"
+        ]
+    },
+    {
+        "value": "dc comics",
+        "synonyms": [
+            "dc comics",
+            "dc comics"
+        ]
+    },
+    {
+        "value": "deadpan",
+        "synonyms": [
+            "deadpan",
+            "deadpan"
+        ]
+    },
+    {
+        "value": "death",
+        "synonyms": [
+            "death",
+            "death"
+        ]
+    },
+    {
+        "value": "death penalty",
+        "synonyms": [
+            "death penalty",
+            "death penalty"
+        ]
+    },
+    {
+        "value": "demons",
+        "synonyms": [
+            "demons",
+            "demons"
+        ]
+    },
+    {
+        "value": "depp & burton",
+        "synonyms": [
+            "depp & burton",
+            "depp & burton"
+        ]
+    },
+    {
+        "value": "depressing",
+        "synonyms": [
+            "depressing",
+            "depressing"
+        ]
+    },
+    {
+        "value": "depression",
+        "synonyms": [
+            "depression",
+            "depression"
+        ]
+    },
+    {
+        "value": "desert",
+        "synonyms": [
+            "desert",
+            "desert"
+        ]
+    },
+    {
+        "value": "destiny",
+        "synonyms": [
+            "destiny",
+            "destiny"
+        ]
+    },
+    {
+        "value": "detective",
+        "synonyms": [
+            "detective",
+            "detective"
+        ]
+    },
+    {
+        "value": "devil",
+        "synonyms": [
+            "devil",
+            "devil"
+        ]
+    },
+    {
+        "value": "dialogue",
+        "synonyms": [
+            "dialogue",
+            "dialogue"
+        ]
+    },
+    {
+        "value": "dialogue driven",
+        "synonyms": [
+            "dialogue driven",
+            "dialogue driven"
+        ]
+    },
+    {
+        "value": "dinosaurs",
+        "synonyms": [
+            "dinosaurs",
+            "dinosaurs"
+        ]
+    },
+    {
+        "value": "directorial debut",
+        "synonyms": [
+            "directorial debut",
+            "directorial debut"
+        ]
+    },
+    {
+        "value": "disability",
+        "synonyms": [
+            "disability",
+            "disability"
+        ]
+    },
+    {
+        "value": "disappointing",
+        "synonyms": [
+            "disappointing",
+            "disappointing"
+        ]
+    },
+    {
+        "value": "disaster",
+        "synonyms": [
+            "disaster",
+            "disaster"
+        ]
+    },
+    {
+        "value": "disney",
+        "synonyms": [
+            "disney",
+            "disney"
+        ]
+    },
+    {
+        "value": "disney animated feature",
+        "synonyms": [
+            "disney animated feature",
+            "disney animated feature"
+        ]
+    },
+    {
+        "value": "distopia",
+        "synonyms": [
+            "distopia",
+            "distopia"
+        ]
+    },
+    {
+        "value": "disturbing",
+        "synonyms": [
+            "disturbing",
+            "disturbing"
+        ]
+    },
+    {
+        "value": "divorce",
+        "synonyms": [
+            "divorce",
+            "divorce"
+        ]
+    },
+    {
+        "value": "doctors",
+        "synonyms": [
+            "doctors",
+            "doctors"
+        ]
+    },
+    {
+        "value": "documentary",
+        "synonyms": [
+            "documentary",
+            "documentary"
+        ]
+    },
+    {
+        "value": "dog",
+        "synonyms": [
+            "dog",
+            "dog"
+        ]
+    },
+    {
+        "value": "dogs",
+        "synonyms": [
+            "dogs",
+            "dogs"
+        ]
+    },
+    {
+        "value": "dolphins",
+        "synonyms": [
+            "dolphins",
+            "dolphins"
+        ]
+    },
+    {
+        "value": "downbeat",
+        "synonyms": [
+            "downbeat",
+            "downbeat"
+        ]
+    },
+    {
+        "value": "dr. seuss",
+        "synonyms": [
+            "dr. seuss",
+            "dr. seuss"
+        ]
+    },
+    {
+        "value": "dragon",
+        "synonyms": [
+            "dragon",
+            "dragon"
+        ]
+    },
+    {
+        "value": "dragons",
+        "synonyms": [
+            "dragons",
+            "dragons"
+        ]
+    },
+    {
+        "value": "drama",
+        "synonyms": [
+            "drama",
+            "drama"
+        ]
+    },
+    {
+        "value": "dramatic",
+        "synonyms": [
+            "dramatic",
+            "dramatic"
+        ]
+    },
+    {
+        "value": "dreamlike",
+        "synonyms": [
+            "dreamlike",
+            "dreamlike"
+        ]
+    },
+    {
+        "value": "dreams",
+        "synonyms": [
+            "dreams",
+            "dreams"
+        ]
+    },
+    {
+        "value": "dreamworks",
+        "synonyms": [
+            "dreamworks",
+            "dreamworks"
+        ]
+    },
+    {
+        "value": "drinking",
+        "synonyms": [
+            "drinking",
+            "drinking"
+        ]
+    },
+    {
+        "value": "drug abuse",
+        "synonyms": [
+            "drug abuse",
+            "drug abuse"
+        ]
+    },
+    {
+        "value": "drug addiction",
+        "synonyms": [
+            "drug addiction",
+            "drug addiction"
+        ]
+    },
+    {
+        "value": "drugs",
+        "synonyms": [
+            "drugs",
+            "drugs"
+        ]
+    },
+    {
+        "value": "dumb",
+        "synonyms": [
+            "dumb",
+            "dumb"
+        ]
+    },
+    {
+        "value": "dumb but funny",
+        "synonyms": [
+            "dumb but funny",
+            "dumb but funny"
+        ]
+    },
+    {
+        "value": "dynamic cgi action",
+        "synonyms": [
+            "dynamic cgi action",
+            "dynamic cgi action"
+        ]
+    },
+    {
+        "value": "dysfunctional family",
+        "synonyms": [
+            "dysfunctional family",
+            "dysfunctional family"
+        ]
+    },
+    {
+        "value": "dystopia",
+        "synonyms": [
+            "dystopia",
+            "dystopia"
+        ]
+    },
+    {
+        "value": "dystopic future",
+        "synonyms": [
+            "dystopic future",
+            "dystopic future"
+        ]
+    },
+    {
+        "value": "earnest",
+        "synonyms": [
+            "earnest",
+            "earnest"
+        ]
+    },
+    {
+        "value": "easily confused with other movie(s) (title)",
+        "synonyms": [
+            "easily confused with other movie(s) (title)",
+            "easily confused with other movie(s) (title)"
+        ]
+    },
+    {
+        "value": "east germany",
+        "synonyms": [
+            "east germany",
+            "east germany"
+        ]
+    },
+    {
+        "value": "eccentricity",
+        "synonyms": [
+            "eccentricity",
+            "eccentricity"
+        ]
+    },
+    {
+        "value": "ecology",
+        "synonyms": [
+            "ecology",
+            "ecology"
+        ]
+    },
+    {
+        "value": "educational",
+        "synonyms": [
+            "educational",
+            "educational"
+        ]
+    },
+    {
+        "value": "eerie",
+        "synonyms": [
+            "eerie",
+            "eerie"
+        ]
+    },
+    {
+        "value": "effects",
+        "synonyms": [
+            "effects",
+            "effects"
+        ]
+    },
+    {
+        "value": "egypt",
+        "synonyms": [
+            "egypt",
+            "egypt"
+        ]
+    },
+    {
+        "value": "emma watson",
+        "synonyms": [
+            "emma watson",
+            "emma watson"
+        ]
+    },
+    {
+        "value": "emotional",
+        "synonyms": [
+            "emotional",
+            "emotional"
+        ]
+    },
+    {
+        "value": "end of the world",
+        "synonyms": [
+            "end of the world",
+            "end of the world"
+        ]
+    },
+    {
+        "value": "england",
+        "synonyms": [
+            "england",
+            "england"
+        ]
+    },
+    {
+        "value": "enigmatic",
+        "synonyms": [
+            "enigmatic",
+            "enigmatic"
+        ]
+    },
+    {
+        "value": "ennio morricone",
+        "synonyms": [
+            "ennio morricone",
+            "ennio morricone"
+        ]
+    },
+    {
+        "value": "enormously long battle scene",
+        "synonyms": [
+            "enormously long battle scene",
+            "enormously long battle scene"
+        ]
+    },
+    {
+        "value": "ensemble cast",
+        "synonyms": [
+            "ensemble cast",
+            "ensemble cast"
+        ]
+    },
+    {
+        "value": "entertaining",
+        "synonyms": [
+            "entertaining",
+            "entertaining"
+        ]
+    },
+    {
+        "value": "entirely dialogue",
+        "synonyms": [
+            "entirely dialogue",
+            "entirely dialogue"
+        ]
+    },
+    {
+        "value": "environment",
+        "synonyms": [
+            "environment",
+            "environment"
+        ]
+    },
+    {
+        "value": "environmental",
+        "synonyms": [
+            "environmental",
+            "environmental"
+        ]
+    },
+    {
+        "value": "epic",
+        "synonyms": [
+            "epic",
+            "epic"
+        ]
+    },
+    {
+        "value": "erotic",
+        "synonyms": [
+            "erotic",
+            "erotic"
+        ]
+    },
+    {
+        "value": "espionage",
+        "synonyms": [
+            "espionage",
+            "espionage"
+        ]
+    },
+    {
+        "value": "ethnic conflict",
+        "synonyms": [
+            "ethnic conflict",
+            "ethnic conflict"
+        ]
+    },
+    {
+        "value": "evolution",
+        "synonyms": [
+            "evolution",
+            "evolution"
+        ]
+    },
+    {
+        "value": "excellent",
+        "synonyms": [
+            "excellent",
+            "excellent"
+        ]
+    },
+    {
+        "value": "excellent script",
+        "synonyms": [
+            "excellent script",
+            "excellent script"
+        ]
+    },
+    {
+        "value": "exceptional acting",
+        "synonyms": [
+            "exceptional acting",
+            "exceptional acting"
+        ]
+    },
+    {
+        "value": "exciting",
+        "synonyms": [
+            "exciting",
+            "exciting"
+        ]
+    },
+    {
+        "value": "existentialism",
+        "synonyms": [
+            "existentialism",
+            "existentialism"
+        ]
+    },
+    {
+        "value": "explosions",
+        "synonyms": [
+            "explosions",
+            "explosions"
+        ]
+    },
+    {
+        "value": "factual",
+        "synonyms": [
+            "factual",
+            "factual"
+        ]
+    },
+    {
+        "value": "fairy tale",
+        "synonyms": [
+            "fairy tale",
+            "fairy tale"
+        ]
+    },
+    {
+        "value": "fairy tales",
+        "synonyms": [
+            "fairy tales",
+            "fairy tales"
+        ]
+    },
+    {
+        "value": "fake documentary",
+        "synonyms": [
+            "fake documentary",
+            "fake documentary"
+        ]
+    },
+    {
+        "value": "family",
+        "synonyms": [
+            "family",
+            "family"
+        ]
+    },
+    {
+        "value": "family bonds",
+        "synonyms": [
+            "family bonds",
+            "family bonds"
+        ]
+    },
+    {
+        "value": "family drama",
+        "synonyms": [
+            "family drama",
+            "family drama"
+        ]
+    },
+    {
+        "value": "fantasy",
+        "synonyms": [
+            "fantasy",
+            "fantasy"
+        ]
+    },
+    {
+        "value": "fantasy world",
+        "synonyms": [
+            "fantasy world",
+            "fantasy world"
+        ]
+    },
+    {
+        "value": "farce",
+        "synonyms": [
+            "farce",
+            "farce"
+        ]
+    },
+    {
+        "value": "fascism",
+        "synonyms": [
+            "fascism",
+            "fascism"
+        ]
+    },
+    {
+        "value": "fashion",
+        "synonyms": [
+            "fashion",
+            "fashion"
+        ]
+    },
+    {
+        "value": "fast paced",
+        "synonyms": [
+            "fast paced",
+            "fast paced"
+        ]
+    },
+    {
+        "value": "father daughter relationship",
+        "synonyms": [
+            "father daughter relationship",
+            "father daughter relationship"
+        ]
+    },
+    {
+        "value": "father son relationship",
+        "synonyms": [
+            "father son relationship",
+            "father son relationship"
+        ]
+    },
+    {
+        "value": "father-son relationship",
+        "synonyms": [
+            "father-son relationship",
+            "father son relationship"
+        ]
+    },
+    {
+        "value": "fbi",
+        "synonyms": [
+            "fbi",
+            "fbi"
+        ]
+    },
+    {
+        "value": "feel good movie",
+        "synonyms": [
+            "feel good movie",
+            "feel good movie"
+        ]
+    },
+    {
+        "value": "feel-good",
+        "synonyms": [
+            "feel-good",
+            "feel good"
+        ]
+    },
+    {
+        "value": "fight scenes",
+        "synonyms": [
+            "fight scenes",
+            "fight scenes"
+        ]
+    },
+    {
+        "value": "fighting",
+        "synonyms": [
+            "fighting",
+            "fighting"
+        ]
+    },
+    {
+        "value": "fighting the system",
+        "synonyms": [
+            "fighting the system",
+            "fighting the system"
+        ]
+    },
+    {
+        "value": "figure skating",
+        "synonyms": [
+            "figure skating",
+            "figure skating"
+        ]
+    },
+    {
+        "value": "film noir",
+        "synonyms": [
+            "film noir",
+            "film noir"
+        ]
+    },
+    {
+        "value": "finnish",
+        "synonyms": [
+            "finnish",
+            "finnish"
+        ]
+    },
+    {
+        "value": "firefly",
+        "synonyms": [
+            "firefly",
+            "firefly"
+        ]
+    },
+    {
+        "value": "first contact",
+        "synonyms": [
+            "first contact",
+            "first contact"
+        ]
+    },
+    {
+        "value": "fish",
+        "synonyms": [
+            "fish",
+            "fish"
+        ]
+    },
+    {
+        "value": "flashbacks",
+        "synonyms": [
+            "flashbacks",
+            "flashbacks"
+        ]
+    },
+    {
+        "value": "food",
+        "synonyms": [
+            "food",
+            "food"
+        ]
+    },
+    {
+        "value": "football",
+        "synonyms": [
+            "football",
+            "football"
+        ]
+    },
+    {
+        "value": "forceful",
+        "synonyms": [
+            "forceful",
+            "forceful"
+        ]
+    },
+    {
+        "value": "foreign",
+        "synonyms": [
+            "foreign",
+            "foreign"
+        ]
+    },
+    {
+        "value": "foul language",
+        "synonyms": [
+            "foul language",
+            "foul language"
+        ]
+    },
+    {
+        "value": "fountain of youth",
+        "synonyms": [
+            "fountain of youth",
+            "fountain of youth"
+        ]
+    },
+    {
+        "value": "france",
+        "synonyms": [
+            "france",
+            "france"
+        ]
+    },
+    {
+        "value": "franchise",
+        "synonyms": [
+            "franchise",
+            "franchise"
+        ]
+    },
+    {
+        "value": "francis ford copolla",
+        "synonyms": [
+            "francis ford copolla",
+            "francis ford copolla"
+        ]
+    },
+    {
+        "value": "free speech",
+        "synonyms": [
+            "free speech",
+            "free speech"
+        ]
+    },
+    {
+        "value": "free to download",
+        "synonyms": [
+            "free to download",
+            "free to download"
+        ]
+    },
+    {
+        "value": "freedom",
+        "synonyms": [
+            "freedom",
+            "freedom"
+        ]
+    },
+    {
+        "value": "french",
+        "synonyms": [
+            "french",
+            "french"
+        ]
+    },
+    {
+        "value": "friendship",
+        "synonyms": [
+            "friendship",
+            "friendship"
+        ]
+    },
+    {
+        "value": "frightening",
+        "synonyms": [
+            "frightening",
+            "frightening"
+        ]
+    },
+    {
+        "value": "fun",
+        "synonyms": [
+            "fun",
+            "fun"
+        ]
+    },
+    {
+        "value": "fun movie",
+        "synonyms": [
+            "fun movie",
+            "fun movie"
+        ]
+    },
+    {
+        "value": "funniest movies",
+        "synonyms": [
+            "funniest movies",
+            "funniest movies"
+        ]
+    },
+    {
+        "value": "funny",
+        "synonyms": [
+            "funny",
+            "funny"
+        ]
+    },
+    {
+        "value": "funny as hell",
+        "synonyms": [
+            "funny as hell",
+            "funny as hell"
+        ]
+    },
+    {
+        "value": "future",
+        "synonyms": [
+            "future",
+            "future"
+        ]
+    },
+    {
+        "value": "futuristic",
+        "synonyms": [
+            "futuristic",
+            "futuristic"
+        ]
+    },
+    {
+        "value": "gambling",
+        "synonyms": [
+            "gambling",
+            "gambling"
+        ]
+    },
+    {
+        "value": "gangs",
+        "synonyms": [
+            "gangs",
+            "gangs"
+        ]
+    },
+    {
+        "value": "gangster",
+        "synonyms": [
+            "gangster",
+            "gangster"
+        ]
+    },
+    {
+        "value": "gangsters",
+        "synonyms": [
+            "gangsters",
+            "gangsters"
+        ]
+    },
+    {
+        "value": "gay",
+        "synonyms": [
+            "gay",
+            "gay"
+        ]
+    },
+    {
+        "value": "gay character",
+        "synonyms": [
+            "gay character",
+            "gay character"
+        ]
+    },
+    {
+        "value": "geek",
+        "synonyms": [
+            "geek",
+            "geek"
+        ]
+    },
+    {
+        "value": "geeks",
+        "synonyms": [
+            "geeks",
+            "geeks"
+        ]
+    },
+    {
+        "value": "genetics",
+        "synonyms": [
+            "genetics",
+            "genetics"
+        ]
+    },
+    {
+        "value": "genius",
+        "synonyms": [
+            "genius",
+            "genius"
+        ]
+    },
+    {
+        "value": "genocide",
+        "synonyms": [
+            "genocide",
+            "genocide"
+        ]
+    },
+    {
+        "value": "george orwell",
+        "synonyms": [
+            "george orwell",
+            "george orwell"
+        ]
+    },
+    {
+        "value": "german",
+        "synonyms": [
+            "german",
+            "german"
+        ]
+    },
+    {
+        "value": "germany",
+        "synonyms": [
+            "germany",
+            "germany"
+        ]
+    },
+    {
+        "value": "ghosts",
+        "synonyms": [
+            "ghosts",
+            "ghosts"
+        ]
+    },
+    {
+        "value": "ghosts/afterlife",
+        "synonyms": [
+            "ghosts/afterlife",
+            "ghosts/afterlife"
+        ]
+    },
+    {
+        "value": "giant robots",
+        "synonyms": [
+            "giant robots",
+            "giant robots"
+        ]
+    },
+    {
+        "value": "gilliam",
+        "synonyms": [
+            "gilliam",
+            "gilliam"
+        ]
+    },
+    {
+        "value": "girlie movie",
+        "synonyms": [
+            "girlie movie",
+            "girlie movie"
+        ]
+    },
+    {
+        "value": "glbt",
+        "synonyms": [
+            "glbt",
+            "glbt"
+        ]
+    },
+    {
+        "value": "global warming",
+        "synonyms": [
+            "global warming",
+            "global warming"
+        ]
+    },
+    {
+        "value": "god",
+        "synonyms": [
+            "god",
+            "god"
+        ]
+    },
+    {
+        "value": "golden palm",
+        "synonyms": [
+            "golden palm",
+            "golden palm"
+        ]
+    },
+    {
+        "value": "golf",
+        "synonyms": [
+            "golf",
+            "golf"
+        ]
+    },
+    {
+        "value": "good",
+        "synonyms": [
+            "good",
+            "good"
+        ]
+    },
+    {
+        "value": "good acting",
+        "synonyms": [
+            "good acting",
+            "good acting"
+        ]
+    },
+    {
+        "value": "good action",
+        "synonyms": [
+            "good action",
+            "good action"
+        ]
+    },
+    {
+        "value": "good dialogue",
+        "synonyms": [
+            "good dialogue",
+            "good dialogue"
+        ]
+    },
+    {
+        "value": "good music",
+        "synonyms": [
+            "good music",
+            "good music"
+        ]
+    },
+    {
+        "value": "good romantic comedies",
+        "synonyms": [
+            "good romantic comedies",
+            "good romantic comedies"
+        ]
+    },
+    {
+        "value": "good sequel",
+        "synonyms": [
+            "good sequel",
+            "good sequel"
+        ]
+    },
+    {
+        "value": "good soundtrack",
+        "synonyms": [
+            "good soundtrack",
+            "good soundtrack"
+        ]
+    },
+    {
+        "value": "good story",
+        "synonyms": [
+            "good story",
+            "good story"
+        ]
+    },
+    {
+        "value": "good versus evil",
+        "synonyms": [
+            "good versus evil",
+            "good versus evil"
+        ]
+    },
+    {
+        "value": "goofy",
+        "synonyms": [
+            "goofy",
+            "goofy"
+        ]
+    },
+    {
+        "value": "gore",
+        "synonyms": [
+            "gore",
+            "gore"
+        ]
+    },
+    {
+        "value": "goretastic",
+        "synonyms": [
+            "goretastic",
+            "goretastic"
+        ]
+    },
+    {
+        "value": "gory",
+        "synonyms": [
+            "gory",
+            "gory"
+        ]
+    },
+    {
+        "value": "goth",
+        "synonyms": [
+            "goth",
+            "goth"
+        ]
+    },
+    {
+        "value": "gothic",
+        "synonyms": [
+            "gothic",
+            "gothic"
+        ]
+    },
+    {
+        "value": "graphic design",
+        "synonyms": [
+            "graphic design",
+            "graphic design"
+        ]
+    },
+    {
+        "value": "graphic novel",
+        "synonyms": [
+            "graphic novel",
+            "graphic novel"
+        ]
+    },
+    {
+        "value": "gratuitous violence",
+        "synonyms": [
+            "gratuitous violence",
+            "gratuitous violence"
+        ]
+    },
+    {
+        "value": "great",
+        "synonyms": [
+            "great",
+            "great"
+        ]
+    },
+    {
+        "value": "great acting",
+        "synonyms": [
+            "great acting",
+            "great acting"
+        ]
+    },
+    {
+        "value": "great cinematography",
+        "synonyms": [
+            "great cinematography",
+            "great cinematography"
+        ]
+    },
+    {
+        "value": "great dialogue",
+        "synonyms": [
+            "great dialogue",
+            "great dialogue"
+        ]
+    },
+    {
+        "value": "great ending",
+        "synonyms": [
+            "great ending",
+            "great ending"
+        ]
+    },
+    {
+        "value": "great movie",
+        "synonyms": [
+            "great movie",
+            "great movie"
+        ]
+    },
+    {
+        "value": "great music",
+        "synonyms": [
+            "great music",
+            "great music"
+        ]
+    },
+    {
+        "value": "great soundtrack",
+        "synonyms": [
+            "great soundtrack",
+            "great soundtrack"
+        ]
+    },
+    {
+        "value": "greed",
+        "synonyms": [
+            "greed",
+            "greed"
+        ]
+    },
+    {
+        "value": "grim",
+        "synonyms": [
+            "grim",
+            "grim"
+        ]
+    },
+    {
+        "value": "grindhouse",
+        "synonyms": [
+            "grindhouse",
+            "grindhouse"
+        ]
+    },
+    {
+        "value": "gritty",
+        "synonyms": [
+            "gritty",
+            "gritty"
+        ]
+    },
+    {
+        "value": "gross-out",
+        "synonyms": [
+            "gross-out",
+            "gross out"
+        ]
+    },
+    {
+        "value": "gruesome",
+        "synonyms": [
+            "gruesome",
+            "gruesome"
+        ]
+    },
+    {
+        "value": "guilt",
+        "synonyms": [
+            "guilt",
+            "guilt"
+        ]
+    },
+    {
+        "value": "guilty pleasure",
+        "synonyms": [
+            "guilty pleasure",
+            "guilty pleasure"
+        ]
+    },
+    {
+        "value": "gulf war",
+        "synonyms": [
+            "gulf war",
+            "gulf war"
+        ]
+    },
+    {
+        "value": "gunfight",
+        "synonyms": [
+            "gunfight",
+            "gunfight"
+        ]
+    },
+    {
+        "value": "guns",
+        "synonyms": [
+            "guns",
+            "guns"
+        ]
+    },
+    {
+        "value": "gypsy accent",
+        "synonyms": [
+            "gypsy accent",
+            "gypsy accent"
+        ]
+    },
+    {
+        "value": "hackers",
+        "synonyms": [
+            "hackers",
+            "hackers"
+        ]
+    },
+    {
+        "value": "hacking",
+        "synonyms": [
+            "hacking",
+            "hacking"
+        ]
+    },
+    {
+        "value": "halloween",
+        "synonyms": [
+            "halloween",
+            "halloween"
+        ]
+    },
+    {
+        "value": "hallucinatory",
+        "synonyms": [
+            "hallucinatory",
+            "hallucinatory"
+        ]
+    },
+    {
+        "value": "handycam",
+        "synonyms": [
+            "handycam",
+            "handycam"
+        ]
+    },
+    {
+        "value": "hannibal lecter",
+        "synonyms": [
+            "hannibal lecter",
+            "hannibal lecter"
+        ]
+    },
+    {
+        "value": "happy ending",
+        "synonyms": [
+            "happy ending",
+            "happy ending"
+        ]
+    },
+    {
+        "value": "hard to watch",
+        "synonyms": [
+            "hard to watch",
+            "hard to watch"
+        ]
+    },
+    {
+        "value": "harry potter",
+        "synonyms": [
+            "harry potter",
+            "harry potter"
+        ]
+    },
+    {
+        "value": "harsh",
+        "synonyms": [
+            "harsh",
+            "harsh"
+        ]
+    },
+    {
+        "value": "haunted house",
+        "synonyms": [
+            "haunted house",
+            "haunted house"
+        ]
+    },
+    {
+        "value": "hawaii",
+        "synonyms": [
+            "hawaii",
+            "hawaii"
+        ]
+    },
+    {
+        "value": "heartbreaking",
+        "synonyms": [
+            "heartbreaking",
+            "heartbreaking"
+        ]
+    },
+    {
+        "value": "heartwarming",
+        "synonyms": [
+            "heartwarming",
+            "heartwarming"
+        ]
+    },
+    {
+        "value": "heist",
+        "synonyms": [
+            "heist",
+            "heist"
+        ]
+    },
+    {
+        "value": "heroin",
+        "synonyms": [
+            "heroin",
+            "heroin"
+        ]
+    },
+    {
+        "value": "heroine",
+        "synonyms": [
+            "heroine",
+            "heroine"
+        ]
+    },
+    {
+        "value": "heroine in tight suit",
+        "synonyms": [
+            "heroine in tight suit",
+            "heroine in tight suit"
+        ]
+    },
+    {
+        "value": "high fantasy",
+        "synonyms": [
+            "high fantasy",
+            "high fantasy"
+        ]
+    },
+    {
+        "value": "high school",
+        "synonyms": [
+            "high school",
+            "high school"
+        ]
+    },
+    {
+        "value": "highly quotable",
+        "synonyms": [
+            "highly quotable",
+            "highly quotable"
+        ]
+    },
+    {
+        "value": "hilarious",
+        "synonyms": [
+            "hilarious",
+            "hilarious"
+        ]
+    },
+    {
+        "value": "hillarious",
+        "synonyms": [
+            "hillarious",
+            "hillarious"
+        ]
+    },
+    {
+        "value": "hip hop",
+        "synonyms": [
+            "hip hop",
+            "hip hop"
+        ]
+    },
+    {
+        "value": "historical",
+        "synonyms": [
+            "historical",
+            "historical"
+        ]
+    },
+    {
+        "value": "history",
+        "synonyms": [
+            "history",
+            "history"
+        ]
+    },
+    {
+        "value": "hit men",
+        "synonyms": [
+            "hit men",
+            "hit men"
+        ]
+    },
+    {
+        "value": "hitchcock",
+        "synonyms": [
+            "hitchcock",
+            "hitchcock"
+        ]
+    },
+    {
+        "value": "hitman",
+        "synonyms": [
+            "hitman",
+            "hitman"
+        ]
+    },
+    {
+        "value": "holiday",
+        "synonyms": [
+            "holiday",
+            "holiday"
+        ]
+    },
+    {
+        "value": "hollywood",
+        "synonyms": [
+            "hollywood",
+            "hollywood"
+        ]
+    },
+    {
+        "value": "holocaust",
+        "synonyms": [
+            "holocaust",
+            "holocaust"
+        ]
+    },
+    {
+        "value": "homeless",
+        "synonyms": [
+            "homeless",
+            "homeless"
+        ]
+    },
+    {
+        "value": "homophobia",
+        "synonyms": [
+            "homophobia",
+            "homophobia"
+        ]
+    },
+    {
+        "value": "homosexuality",
+        "synonyms": [
+            "homosexuality",
+            "homosexuality"
+        ]
+    },
+    {
+        "value": "honest",
+        "synonyms": [
+            "honest",
+            "honest"
+        ]
+    },
+    {
+        "value": "hong kong",
+        "synonyms": [
+            "hong kong",
+            "hong kong"
+        ]
+    },
+    {
+        "value": "horrible",
+        "synonyms": [
+            "horrible",
+            "horrible"
+        ]
+    },
+    {
+        "value": "horror",
+        "synonyms": [
+            "horror",
+            "horror"
+        ]
+    },
+    {
+        "value": "horses",
+        "synonyms": [
+            "horses",
+            "horses"
+        ]
+    },
+    {
+        "value": "hospital",
+        "synonyms": [
+            "hospital",
+            "hospital"
+        ]
+    },
+    {
+        "value": "hostage",
+        "synonyms": [
+            "hostage",
+            "hostage"
+        ]
+    },
+    {
+        "value": "hotel",
+        "synonyms": [
+            "hotel",
+            "hotel"
+        ]
+    },
+    {
+        "value": "humanity",
+        "synonyms": [
+            "humanity",
+            "humanity"
+        ]
+    },
+    {
+        "value": "humor",
+        "synonyms": [
+            "humor",
+            "humor"
+        ]
+    },
+    {
+        "value": "humorous",
+        "synonyms": [
+            "humorous",
+            "humorous"
+        ]
+    },
+    {
+        "value": "hunting",
+        "synonyms": [
+            "hunting",
+            "hunting"
+        ]
+    },
+    {
+        "value": "idealism",
+        "synonyms": [
+            "idealism",
+            "idealism"
+        ]
+    },
+    {
+        "value": "identity",
+        "synonyms": [
+            "identity",
+            "identity"
+        ]
+    },
+    {
+        "value": "idiotic",
+        "synonyms": [
+            "idiotic",
+            "idiotic"
+        ]
+    },
+    {
+        "value": "imaginary friend",
+        "synonyms": [
+            "imaginary friend",
+            "imaginary friend"
+        ]
+    },
+    {
+        "value": "imagination",
+        "synonyms": [
+            "imagination",
+            "imagination"
+        ]
+    },
+    {
+        "value": "imdb top 250",
+        "synonyms": [
+            "imdb top 250",
+            "imdb top 250"
+        ]
+    },
+    {
+        "value": "immigrants",
+        "synonyms": [
+            "immigrants",
+            "immigrants"
+        ]
+    },
+    {
+        "value": "immortality",
+        "synonyms": [
+            "immortality",
+            "immortality"
+        ]
+    },
+    {
+        "value": "incest",
+        "synonyms": [
+            "incest",
+            "incest"
+        ]
+    },
+    {
+        "value": "independent film",
+        "synonyms": [
+            "independent film",
+            "independent film"
+        ]
+    },
+    {
+        "value": "india",
+        "synonyms": [
+            "india",
+            "india"
+        ]
+    },
+    {
+        "value": "indiana jones",
+        "synonyms": [
+            "indiana jones",
+            "indiana jones"
+        ]
+    },
+    {
+        "value": "indians",
+        "synonyms": [
+            "indians",
+            "indians"
+        ]
+    },
+    {
+        "value": "indie",
+        "synonyms": [
+            "indie",
+            "indie"
+        ]
+    },
+    {
+        "value": "infidelity",
+        "synonyms": [
+            "infidelity",
+            "infidelity"
+        ]
+    },
+    {
+        "value": "innocence lost",
+        "synonyms": [
+            "innocence lost",
+            "innocence lost"
+        ]
+    },
+    {
+        "value": "insanity",
+        "synonyms": [
+            "insanity",
+            "insanity"
+        ]
+    },
+    {
+        "value": "inspirational",
+        "synonyms": [
+            "inspirational",
+            "inspirational"
+        ]
+    },
+    {
+        "value": "inspiring",
+        "synonyms": [
+            "inspiring",
+            "inspiring"
+        ]
+    },
+    {
+        "value": "intellectual",
+        "synonyms": [
+            "intellectual",
+            "intellectual"
+        ]
+    },
+    {
+        "value": "intelligent",
+        "synonyms": [
+            "intelligent",
+            "intelligent"
+        ]
+    },
+    {
+        "value": "intelligent sci-fi",
+        "synonyms": [
+            "intelligent sci-fi",
+            "intelligent sci fi"
+        ]
+    },
+    {
+        "value": "intense",
+        "synonyms": [
+            "intense",
+            "intense"
+        ]
+    },
+    {
+        "value": "interesting",
+        "synonyms": [
+            "interesting",
+            "interesting"
+        ]
+    },
+    {
+        "value": "internet",
+        "synonyms": [
+            "internet",
+            "internet"
+        ]
+    },
+    {
+        "value": "interracial romance",
+        "synonyms": [
+            "interracial romance",
+            "interracial romance"
+        ]
+    },
+    {
+        "value": "intimate",
+        "synonyms": [
+            "intimate",
+            "intimate"
+        ]
+    },
+    {
+        "value": "investigation",
+        "synonyms": [
+            "investigation",
+            "investigation"
+        ]
+    },
+    {
+        "value": "iran",
+        "synonyms": [
+            "iran",
+            "iran"
+        ]
+    },
+    {
+        "value": "iraq",
+        "synonyms": [
+            "iraq",
+            "iraq"
+        ]
+    },
+    {
+        "value": "iraq war",
+        "synonyms": [
+            "iraq war",
+            "iraq war"
+        ]
+    },
+    {
+        "value": "ireland",
+        "synonyms": [
+            "ireland",
+            "ireland"
+        ]
+    },
+    {
+        "value": "irish",
+        "synonyms": [
+            "irish",
+            "irish"
+        ]
+    },
+    {
+        "value": "irish accent",
+        "synonyms": [
+            "irish accent",
+            "irish accent"
+        ]
+    },
+    {
+        "value": "ironic",
+        "synonyms": [
+            "ironic",
+            "ironic"
+        ]
+    },
+    {
+        "value": "irreverent",
+        "synonyms": [
+            "irreverent",
+            "irreverent"
+        ]
+    },
+    {
+        "value": "islam",
+        "synonyms": [
+            "islam",
+            "islam"
+        ]
+    },
+    {
+        "value": "island",
+        "synonyms": [
+            "island",
+            "island"
+        ]
+    },
+    {
+        "value": "isolation",
+        "synonyms": [
+            "isolation",
+            "isolation"
+        ]
+    },
+    {
+        "value": "israel",
+        "synonyms": [
+            "israel",
+            "israel"
+        ]
+    },
+    {
+        "value": "italian",
+        "synonyms": [
+            "italian",
+            "italian"
+        ]
+    },
+    {
+        "value": "italy",
+        "synonyms": [
+            "italy",
+            "italy"
+        ]
+    },
+    {
+        "value": "james bond",
+        "synonyms": [
+            "james bond",
+            "james bond"
+        ]
+    },
+    {
+        "value": "jane austen",
+        "synonyms": [
+            "jane austen",
+            "jane austen"
+        ]
+    },
+    {
+        "value": "japan",
+        "synonyms": [
+            "japan",
+            "japan"
+        ]
+    },
+    {
+        "value": "japanese",
+        "synonyms": [
+            "japanese",
+            "japanese"
+        ]
+    },
+    {
+        "value": "jay and silent bob",
+        "synonyms": [
+            "jay and silent bob",
+            "jay and silent bob"
+        ]
+    },
+    {
+        "value": "jazz",
+        "synonyms": [
+            "jazz",
+            "jazz"
+        ]
+    },
+    {
+        "value": "jesus",
+        "synonyms": [
+            "jesus",
+            "jesus"
+        ]
+    },
+    {
+        "value": "jewish",
+        "synonyms": [
+            "jewish",
+            "jewish"
+        ]
+    },
+    {
+        "value": "jews",
+        "synonyms": [
+            "jews",
+            "jews"
+        ]
+    },
+    {
+        "value": "journalism",
+        "synonyms": [
+            "journalism",
+            "journalism"
+        ]
+    },
+    {
+        "value": "judaism",
+        "synonyms": [
+            "judaism",
+            "judaism"
+        ]
+    },
+    {
+        "value": "jungle",
+        "synonyms": [
+            "jungle",
+            "jungle"
+        ]
+    },
+    {
+        "value": "justice",
+        "synonyms": [
+            "justice",
+            "justice"
+        ]
+    },
+    {
+        "value": "kick-butt women",
+        "synonyms": [
+            "kick-butt women",
+            "kick butt women"
+        ]
+    },
+    {
+        "value": "kidnapping",
+        "synonyms": [
+            "kidnapping",
+            "kidnapping"
+        ]
+    },
+    {
+        "value": "kids",
+        "synonyms": [
+            "kids",
+            "kids"
+        ]
+    },
+    {
+        "value": "kids and family",
+        "synonyms": [
+            "kids and family",
+            "kids and family"
+        ]
+    },
+    {
+        "value": "king arthur",
+        "synonyms": [
+            "king arthur",
+            "king arthur"
+        ]
+    },
+    {
+        "value": "kubrick",
+        "synonyms": [
+            "kubrick",
+            "kubrick"
+        ]
+    },
+    {
+        "value": "kung fu",
+        "synonyms": [
+            "kung fu",
+            "kung fu"
+        ]
+    },
+    {
+        "value": "kurosawa",
+        "synonyms": [
+            "kurosawa",
+            "kurosawa"
+        ]
+    },
+    {
+        "value": "lame",
+        "synonyms": [
+            "lame",
+            "lame"
+        ]
+    },
+    {
+        "value": "las vegas",
+        "synonyms": [
+            "las vegas",
+            "las vegas"
+        ]
+    },
+    {
+        "value": "latin america",
+        "synonyms": [
+            "latin america",
+            "latin america"
+        ]
+    },
+    {
+        "value": "lawyer",
+        "synonyms": [
+            "lawyer",
+            "lawyer"
+        ]
+    },
+    {
+        "value": "lawyers",
+        "synonyms": [
+            "lawyers",
+            "lawyers"
+        ]
+    },
+    {
+        "value": "lesbian",
+        "synonyms": [
+            "lesbian",
+            "lesbian"
+        ]
+    },
+    {
+        "value": "life",
+        "synonyms": [
+            "life",
+            "life"
+        ]
+    },
+    {
+        "value": "life & death",
+        "synonyms": [
+            "life & death",
+            "life & death"
+        ]
+    },
+    {
+        "value": "life philosophy",
+        "synonyms": [
+            "life philosophy",
+            "life philosophy"
+        ]
+    },
+    {
+        "value": "light",
+        "synonyms": [
+            "light",
+            "light"
+        ]
+    },
+    {
+        "value": "lions",
+        "synonyms": [
+            "lions",
+            "lions"
+        ]
+    },
+    {
+        "value": "literary adaptation",
+        "synonyms": [
+            "literary adaptation",
+            "literary adaptation"
+        ]
+    },
+    {
+        "value": "literature",
+        "synonyms": [
+            "literature",
+            "literature"
+        ]
+    },
+    {
+        "value": "liv tyler",
+        "synonyms": [
+            "liv tyler",
+            "liv tyler"
+        ]
+    },
+    {
+        "value": "london",
+        "synonyms": [
+            "london",
+            "london"
+        ]
+    },
+    {
+        "value": "lone hero",
+        "synonyms": [
+            "lone hero",
+            "lone hero"
+        ]
+    },
+    {
+        "value": "loneliness",
+        "synonyms": [
+            "loneliness",
+            "loneliness"
+        ]
+    },
+    {
+        "value": "long",
+        "synonyms": [
+            "long",
+            "long"
+        ]
+    },
+    {
+        "value": "los angeles",
+        "synonyms": [
+            "los angeles",
+            "los angeles"
+        ]
+    },
+    {
+        "value": "love",
+        "synonyms": [
+            "love",
+            "love"
+        ]
+    },
+    {
+        "value": "love story",
+        "synonyms": [
+            "love story",
+            "love story"
+        ]
+    },
+    {
+        "value": "love triangles",
+        "synonyms": [
+            "love triangles",
+            "love triangles"
+        ]
+    },
+    {
+        "value": "low budget",
+        "synonyms": [
+            "low budget",
+            "low budget"
+        ]
+    },
+    {
+        "value": "lynch",
+        "synonyms": [
+            "lynch",
+            "lynch"
+        ]
+    },
+    {
+        "value": "lyrical",
+        "synonyms": [
+            "lyrical",
+            "lyrical"
+        ]
+    },
+    {
+        "value": "macabre",
+        "synonyms": [
+            "macabre",
+            "macabre"
+        ]
+    },
+    {
+        "value": "mad scientist",
+        "synonyms": [
+            "mad scientist",
+            "mad scientist"
+        ]
+    },
+    {
+        "value": "made for tv",
+        "synonyms": [
+            "made for tv",
+            "made for tv"
+        ]
+    },
+    {
+        "value": "mafia",
+        "synonyms": [
+            "mafia",
+            "mafia"
+        ]
+    },
+    {
+        "value": "magic",
+        "synonyms": [
+            "magic",
+            "magic"
+        ]
+    },
+    {
+        "value": "magic realism",
+        "synonyms": [
+            "magic realism",
+            "magic realism"
+        ]
+    },
+    {
+        "value": "male nudity",
+        "synonyms": [
+            "male nudity",
+            "male nudity"
+        ]
+    },
+    {
+        "value": "man versus machine",
+        "synonyms": [
+            "man versus machine",
+            "man versus machine"
+        ]
+    },
+    {
+        "value": "manipulation",
+        "synonyms": [
+            "manipulation",
+            "manipulation"
+        ]
+    },
+    {
+        "value": "marijuana",
+        "synonyms": [
+            "marijuana",
+            "marijuana"
+        ]
+    },
+    {
+        "value": "marriage",
+        "synonyms": [
+            "marriage",
+            "marriage"
+        ]
+    },
+    {
+        "value": "mars",
+        "synonyms": [
+            "mars",
+            "mars"
+        ]
+    },
+    {
+        "value": "martial arts",
+        "synonyms": [
+            "martial arts",
+            "martial arts"
+        ]
+    },
+    {
+        "value": "marvel",
+        "synonyms": [
+            "marvel",
+            "marvel"
+        ]
+    },
+    {
+        "value": "marx brothers",
+        "synonyms": [
+            "marx brothers",
+            "marx brothers"
+        ]
+    },
+    {
+        "value": "masterpiece",
+        "synonyms": [
+            "masterpiece",
+            "masterpiece"
+        ]
+    },
+    {
+        "value": "math",
+        "synonyms": [
+            "math",
+            "math"
+        ]
+    },
+    {
+        "value": "mathematics",
+        "synonyms": [
+            "mathematics",
+            "mathematics"
+        ]
+    },
+    {
+        "value": "maze",
+        "synonyms": [
+            "maze",
+            "maze"
+        ]
+    },
+    {
+        "value": "medieval",
+        "synonyms": [
+            "medieval",
+            "medieval"
+        ]
+    },
+    {
+        "value": "meditative",
+        "synonyms": [
+            "meditative",
+            "meditative"
+        ]
+    },
+    {
+        "value": "melancholic",
+        "synonyms": [
+            "melancholic",
+            "melancholic"
+        ]
+    },
+    {
+        "value": "melancholy",
+        "synonyms": [
+            "melancholy",
+            "melancholy"
+        ]
+    },
+    {
+        "value": "memory",
+        "synonyms": [
+            "memory",
+            "memory"
+        ]
+    },
+    {
+        "value": "memory loss",
+        "synonyms": [
+            "memory loss",
+            "memory loss"
+        ]
+    },
+    {
+        "value": "mental hospital",
+        "synonyms": [
+            "mental hospital",
+            "mental hospital"
+        ]
+    },
+    {
+        "value": "mental illness",
+        "synonyms": [
+            "mental illness",
+            "mental illness"
+        ]
+    },
+    {
+        "value": "mentor",
+        "synonyms": [
+            "mentor",
+            "mentor"
+        ]
+    },
+    {
+        "value": "metaphysics",
+        "synonyms": [
+            "metaphysics",
+            "metaphysics"
+        ]
+    },
+    {
+        "value": "mexico",
+        "synonyms": [
+            "mexico",
+            "mexico"
+        ]
+    },
+    {
+        "value": "middle east",
+        "synonyms": [
+            "middle east",
+            "middle east"
+        ]
+    },
+    {
+        "value": "midlife crisis",
+        "synonyms": [
+            "midlife crisis",
+            "midlife crisis"
+        ]
+    },
+    {
+        "value": "military",
+        "synonyms": [
+            "military",
+            "military"
+        ]
+    },
+    {
+        "value": "mindfuck",
+        "synonyms": [
+            "mindfuck",
+            "mindfuck"
+        ]
+    },
+    {
+        "value": "mining",
+        "synonyms": [
+            "mining",
+            "mining"
+        ]
+    },
+    {
+        "value": "minnesota",
+        "synonyms": [
+            "minnesota",
+            "minnesota"
+        ]
+    },
+    {
+        "value": "mission from god",
+        "synonyms": [
+            "mission from god",
+            "mission from god"
+        ]
+    },
+    {
+        "value": "mistaken identity",
+        "synonyms": [
+            "mistaken identity",
+            "mistaken identity"
+        ]
+    },
+    {
+        "value": "miyazaki",
+        "synonyms": [
+            "miyazaki",
+            "miyazaki"
+        ]
+    },
+    {
+        "value": "mob",
+        "synonyms": [
+            "mob",
+            "mob"
+        ]
+    },
+    {
+        "value": "mockumentary",
+        "synonyms": [
+            "mockumentary",
+            "mockumentary"
+        ]
+    },
+    {
+        "value": "modern fantasy",
+        "synonyms": [
+            "modern fantasy",
+            "modern fantasy"
+        ]
+    },
+    {
+        "value": "money",
+        "synonyms": [
+            "money",
+            "money"
+        ]
+    },
+    {
+        "value": "monkey",
+        "synonyms": [
+            "monkey",
+            "monkey"
+        ]
+    },
+    {
+        "value": "monster",
+        "synonyms": [
+            "monster",
+            "monster"
+        ]
+    },
+    {
+        "value": "monsters",
+        "synonyms": [
+            "monsters",
+            "monsters"
+        ]
+    },
+    {
+        "value": "monty python",
+        "synonyms": [
+            "monty python",
+            "monty python"
+        ]
+    },
+    {
+        "value": "moody",
+        "synonyms": [
+            "moody",
+            "moody"
+        ]
+    },
+    {
+        "value": "moon",
+        "synonyms": [
+            "moon",
+            "moon"
+        ]
+    },
+    {
+        "value": "moral ambiguity",
+        "synonyms": [
+            "moral ambiguity",
+            "moral ambiguity"
+        ]
+    },
+    {
+        "value": "morality",
+        "synonyms": [
+            "morality",
+            "morality"
+        ]
+    },
+    {
+        "value": "mother daughter relationship",
+        "synonyms": [
+            "mother daughter relationship",
+            "mother daughter relationship"
+        ]
+    },
+    {
+        "value": "mother-son relationship",
+        "synonyms": [
+            "mother-son relationship",
+            "mother son relationship"
+        ]
+    },
+    {
+        "value": "motorcycle",
+        "synonyms": [
+            "motorcycle",
+            "motorcycle"
+        ]
+    },
+    {
+        "value": "mountain climbing",
+        "synonyms": [
+            "mountain climbing",
+            "mountain climbing"
+        ]
+    },
+    {
+        "value": "movie business",
+        "synonyms": [
+            "movie business",
+            "movie business"
+        ]
+    },
+    {
+        "value": "movielens top pick",
+        "synonyms": [
+            "movielens top pick",
+            "movielens top pick"
+        ]
+    },
+    {
+        "value": "moving",
+        "synonyms": [
+            "moving",
+            "moving"
+        ]
+    },
+    {
+        "value": "mozart",
+        "synonyms": [
+            "mozart",
+            "mozart"
+        ]
+    },
+    {
+        "value": "mtv",
+        "synonyms": [
+            "mtv",
+            "mtv"
+        ]
+    },
+    {
+        "value": "multiple storylines",
+        "synonyms": [
+            "multiple storylines",
+            "multiple storylines"
+        ]
+    },
+    {
+        "value": "mummy",
+        "synonyms": [
+            "mummy",
+            "mummy"
+        ]
+    },
+    {
+        "value": "muppets",
+        "synonyms": [
+            "muppets",
+            "muppets"
+        ]
+    },
+    {
+        "value": "murder",
+        "synonyms": [
+            "murder",
+            "murder"
+        ]
+    },
+    {
+        "value": "murder mystery",
+        "synonyms": [
+            "murder mystery",
+            "murder mystery"
+        ]
+    },
+    {
+        "value": "music",
+        "synonyms": [
+            "music",
+            "music"
+        ]
+    },
+    {
+        "value": "music business",
+        "synonyms": [
+            "music business",
+            "music business"
+        ]
+    },
+    {
+        "value": "musical",
+        "synonyms": [
+            "musical",
+            "musical"
+        ]
+    },
+    {
+        "value": "musicians",
+        "synonyms": [
+            "musicians",
+            "musicians"
+        ]
+    },
+    {
+        "value": "mutants",
+        "synonyms": [
+            "mutants",
+            "mutants"
+        ]
+    },
+    {
+        "value": "mystery",
+        "synonyms": [
+            "mystery",
+            "mystery"
+        ]
+    },
+    {
+        "value": "mythology",
+        "synonyms": [
+            "mythology",
+            "mythology"
+        ]
+    },
+    {
+        "value": "narrated",
+        "synonyms": [
+            "narrated",
+            "narrated"
+        ]
+    },
+    {
+        "value": "nasa",
+        "synonyms": [
+            "nasa",
+            "nasa"
+        ]
+    },
+    {
+        "value": "native americans",
+        "synonyms": [
+            "native americans",
+            "native americans"
+        ]
+    },
+    {
+        "value": "natural disaster",
+        "synonyms": [
+            "natural disaster",
+            "natural disaster"
+        ]
+    },
+    {
+        "value": "nature",
+        "synonyms": [
+            "nature",
+            "nature"
+        ]
+    },
+    {
+        "value": "nazi",
+        "synonyms": [
+            "nazi",
+            "nazi"
+        ]
+    },
+    {
+        "value": "nazis",
+        "synonyms": [
+            "nazis",
+            "nazis"
+        ]
+    },
+    {
+        "value": "neil gaiman",
+        "synonyms": [
+            "neil gaiman",
+            "neil gaiman"
+        ]
+    },
+    {
+        "value": "neo-nazis",
+        "synonyms": [
+            "neo-nazis",
+            "neo nazis"
+        ]
+    },
+    {
+        "value": "neo-noir",
+        "synonyms": [
+            "neo-noir",
+            "neo noir"
+        ]
+    },
+    {
+        "value": "nerds",
+        "synonyms": [
+            "nerds",
+            "nerds"
+        ]
+    },
+    {
+        "value": "new jersey",
+        "synonyms": [
+            "new jersey",
+            "new jersey"
+        ]
+    },
+    {
+        "value": "new orleans",
+        "synonyms": [
+            "new orleans",
+            "new orleans"
+        ]
+    },
+    {
+        "value": "new york",
+        "synonyms": [
+            "new york",
+            "new york"
+        ]
+    },
+    {
+        "value": "new york city",
+        "synonyms": [
+            "new york city",
+            "new york city"
+        ]
+    },
+    {
+        "value": "new zealand",
+        "synonyms": [
+            "new zealand",
+            "new zealand"
+        ]
+    },
+    {
+        "value": "ninja",
+        "synonyms": [
+            "ninja",
+            "ninja"
+        ]
+    },
+    {
+        "value": "no dialogue",
+        "synonyms": [
+            "no dialogue",
+            "no dialogue"
+        ]
+    },
+    {
+        "value": "no plot",
+        "synonyms": [
+            "no plot",
+            "no plot"
+        ]
+    },
+    {
+        "value": "nocturnal",
+        "synonyms": [
+            "nocturnal",
+            "nocturnal"
+        ]
+    },
+    {
+        "value": "noir",
+        "synonyms": [
+            "noir",
+            "noir"
+        ]
+    },
+    {
+        "value": "noir thriller",
+        "synonyms": [
+            "noir thriller",
+            "noir thriller"
+        ]
+    },
+    {
+        "value": "non-hollywood ending",
+        "synonyms": [
+            "non-hollywood ending",
+            "non hollywood ending"
+        ]
+    },
+    {
+        "value": "non-linear",
+        "synonyms": [
+            "non-linear",
+            "non linear"
+        ]
+    },
+    {
+        "value": "nonlinear",
+        "synonyms": [
+            "nonlinear",
+            "nonlinear"
+        ]
+    },
+    {
+        "value": "nostalgia",
+        "synonyms": [
+            "nostalgia",
+            "nostalgia"
+        ]
+    },
+    {
+        "value": "nostalgic",
+        "synonyms": [
+            "nostalgic",
+            "nostalgic"
+        ]
+    },
+    {
+        "value": "not as good as the first",
+        "synonyms": [
+            "not as good as the first",
+            "not as good as the first"
+        ]
+    },
+    {
+        "value": "not funny",
+        "synonyms": [
+            "not funny",
+            "not funny"
+        ]
+    },
+    {
+        "value": "notable nudity",
+        "synonyms": [
+            "notable nudity",
+            "notable nudity"
+        ]
+    },
+    {
+        "value": "notable soundtrack",
+        "synonyms": [
+            "notable soundtrack",
+            "notable soundtrack"
+        ]
+    },
+    {
+        "value": "nuclear",
+        "synonyms": [
+            "nuclear",
+            "nuclear"
+        ]
+    },
+    {
+        "value": "nuclear bomb",
+        "synonyms": [
+            "nuclear bomb",
+            "nuclear bomb"
+        ]
+    },
+    {
+        "value": "nuclear war",
+        "synonyms": [
+            "nuclear war",
+            "nuclear war"
+        ]
+    },
+    {
+        "value": "nudity",
+        "synonyms": [
+            "nudity",
+            "nudity"
+        ]
+    },
+    {
+        "value": "nudity (full frontal - brief)",
+        "synonyms": [
+            "nudity (full frontal - brief)",
+            "nudity (full frontal   brief)"
+        ]
+    },
+    {
+        "value": "nudity (full frontal - notable)",
+        "synonyms": [
+            "nudity (full frontal - notable)",
+            "nudity (full frontal   notable)"
+        ]
+    },
+    {
+        "value": "nudity (full frontal)",
+        "synonyms": [
+            "nudity (full frontal)",
+            "nudity (full frontal)"
+        ]
+    },
+    {
+        "value": "nudity (rear)",
+        "synonyms": [
+            "nudity (rear)",
+            "nudity (rear)"
+        ]
+    },
+    {
+        "value": "nudity (topless - brief)",
+        "synonyms": [
+            "nudity (topless - brief)",
+            "nudity (topless   brief)"
+        ]
+    },
+    {
+        "value": "nudity (topless - notable)",
+        "synonyms": [
+            "nudity (topless - notable)",
+            "nudity (topless   notable)"
+        ]
+    },
+    {
+        "value": "nudity (topless)",
+        "synonyms": [
+            "nudity (topless)",
+            "nudity (topless)"
+        ]
+    },
+    {
+        "value": "obsession",
+        "synonyms": [
+            "obsession",
+            "obsession"
+        ]
+    },
+    {
+        "value": "ocean",
+        "synonyms": [
+            "ocean",
+            "ocean"
+        ]
+    },
+    {
+        "value": "off-beat comedy",
+        "synonyms": [
+            "off-beat comedy",
+            "off beat comedy"
+        ]
+    },
+    {
+        "value": "office",
+        "synonyms": [
+            "office",
+            "office"
+        ]
+    },
+    {
+        "value": "oil",
+        "synonyms": [
+            "oil",
+            "oil"
+        ]
+    },
+    {
+        "value": "olympics",
+        "synonyms": [
+            "olympics",
+            "olympics"
+        ]
+    },
+    {
+        "value": "ominous",
+        "synonyms": [
+            "ominous",
+            "ominous"
+        ]
+    },
+    {
+        "value": "opera",
+        "synonyms": [
+            "opera",
+            "opera"
+        ]
+    },
+    {
+        "value": "organized crime",
+        "synonyms": [
+            "organized crime",
+            "organized crime"
+        ]
+    },
+    {
+        "value": "original",
+        "synonyms": [
+            "original",
+            "original"
+        ]
+    },
+    {
+        "value": "original plot",
+        "synonyms": [
+            "original plot",
+            "original plot"
+        ]
+    },
+    {
+        "value": "orphans",
+        "synonyms": [
+            "orphans",
+            "orphans"
+        ]
+    },
+    {
+        "value": "oscar",
+        "synonyms": [
+            "oscar",
+            "oscar"
+        ]
+    },
+    {
+        "value": "oscar (best actor)",
+        "synonyms": [
+            "oscar (best actor)",
+            "oscar (best actor)"
+        ]
+    },
+    {
+        "value": "oscar (best actress)",
+        "synonyms": [
+            "oscar (best actress)",
+            "oscar (best actress)"
+        ]
+    },
+    {
+        "value": "oscar (best animated feature)",
+        "synonyms": [
+            "oscar (best animated feature)",
+            "oscar (best animated feature)"
+        ]
+    },
+    {
+        "value": "oscar (best cinematography)",
+        "synonyms": [
+            "oscar (best cinematography)",
+            "oscar (best cinematography)"
+        ]
+    },
+    {
+        "value": "oscar (best directing)",
+        "synonyms": [
+            "oscar (best directing)",
+            "oscar (best directing)"
+        ]
+    },
+    {
+        "value": "oscar (best editing)",
+        "synonyms": [
+            "oscar (best editing)",
+            "oscar (best editing)"
+        ]
+    },
+    {
+        "value": "oscar (best effects - visual effects)",
+        "synonyms": [
+            "oscar (best effects - visual effects)",
+            "oscar (best effects   visual effects)"
+        ]
+    },
+    {
+        "value": "oscar (best foreign language film)",
+        "synonyms": [
+            "oscar (best foreign language film)",
+            "oscar (best foreign language film)"
+        ]
+    },
+    {
+        "value": "oscar (best music - original score)",
+        "synonyms": [
+            "oscar (best music - original score)",
+            "oscar (best music   original score)"
+        ]
+    },
+    {
+        "value": "oscar (best music - original song)",
+        "synonyms": [
+            "oscar (best music - original song)",
+            "oscar (best music   original song)"
+        ]
+    },
+    {
+        "value": "oscar (best picture)",
+        "synonyms": [
+            "oscar (best picture)",
+            "oscar (best picture)"
+        ]
+    },
+    {
+        "value": "oscar (best sound)",
+        "synonyms": [
+            "oscar (best sound)",
+            "oscar (best sound)"
+        ]
+    },
+    {
+        "value": "oscar (best supporting actor)",
+        "synonyms": [
+            "oscar (best supporting actor)",
+            "oscar (best supporting actor)"
+        ]
+    },
+    {
+        "value": "oscar (best supporting actress)",
+        "synonyms": [
+            "oscar (best supporting actress)",
+            "oscar (best supporting actress)"
+        ]
+    },
+    {
+        "value": "oscar (best writing - screenplay written directly for the screen)",
+        "synonyms": [
+            "oscar (best writing - screenplay written directly for the screen)",
+            "oscar (best writing   screenplay written directly for the screen)"
+        ]
+    },
+    {
+        "value": "oscar winner",
+        "synonyms": [
+            "oscar winner",
+            "oscar winner"
+        ]
+    },
+    {
+        "value": "over the top",
+        "synonyms": [
+            "over the top",
+            "over the top"
+        ]
+    },
+    {
+        "value": "overrated",
+        "synonyms": [
+            "overrated",
+            "overrated"
+        ]
+    },
+    {
+        "value": "palestine",
+        "synonyms": [
+            "palestine",
+            "palestine"
+        ]
+    },
+    {
+        "value": "parallel universe",
+        "synonyms": [
+            "parallel universe",
+            "parallel universe"
+        ]
+    },
+    {
+        "value": "paranoia",
+        "synonyms": [
+            "paranoia",
+            "paranoia"
+        ]
+    },
+    {
+        "value": "paranoid",
+        "synonyms": [
+            "paranoid",
+            "paranoid"
+        ]
+    },
+    {
+        "value": "parenthood",
+        "synonyms": [
+            "parenthood",
+            "parenthood"
+        ]
+    },
+    {
+        "value": "paris",
+        "synonyms": [
+            "paris",
+            "paris"
+        ]
+    },
+    {
+        "value": "parody",
+        "synonyms": [
+            "parody",
+            "parody"
+        ]
+    },
+    {
+        "value": "passionate",
+        "synonyms": [
+            "passionate",
+            "passionate"
+        ]
+    },
+    {
+        "value": "penguins",
+        "synonyms": [
+            "penguins",
+            "penguins"
+        ]
+    },
+    {
+        "value": "perfect",
+        "synonyms": [
+            "perfect",
+            "perfect"
+        ]
+    },
+    {
+        "value": "period piece",
+        "synonyms": [
+            "period piece",
+            "period piece"
+        ]
+    },
+    {
+        "value": "peter pan",
+        "synonyms": [
+            "peter pan",
+            "peter pan"
+        ]
+    },
+    {
+        "value": "pg",
+        "synonyms": [
+            "pg",
+            "pg"
+        ]
+    },
+    {
+        "value": "pg-13",
+        "synonyms": [
+            "pg-13",
+            "pg 13"
+        ]
+    },
+    {
+        "value": "philip k. dick",
+        "synonyms": [
+            "philip k. dick",
+            "philip k. dick"
+        ]
+    },
+    {
+        "value": "philosophical",
+        "synonyms": [
+            "philosophical",
+            "philosophical"
+        ]
+    },
+    {
+        "value": "philosophy",
+        "synonyms": [
+            "philosophy",
+            "philosophy"
+        ]
+    },
+    {
+        "value": "photographer",
+        "synonyms": [
+            "photographer",
+            "photographer"
+        ]
+    },
+    {
+        "value": "photography",
+        "synonyms": [
+            "photography",
+            "photography"
+        ]
+    },
+    {
+        "value": "pigs",
+        "synonyms": [
+            "pigs",
+            "pigs"
+        ]
+    },
+    {
+        "value": "pirates",
+        "synonyms": [
+            "pirates",
+            "pirates"
+        ]
+    },
+    {
+        "value": "pixar",
+        "synonyms": [
+            "pixar",
+            "pixar"
+        ]
+    },
+    {
+        "value": "pixar animation",
+        "synonyms": [
+            "pixar animation",
+            "pixar animation"
+        ]
+    },
+    {
+        "value": "plot",
+        "synonyms": [
+            "plot",
+            "plot"
+        ]
+    },
+    {
+        "value": "plot holes",
+        "synonyms": [
+            "plot holes",
+            "plot holes"
+        ]
+    },
+    {
+        "value": "plot twist",
+        "synonyms": [
+            "plot twist",
+            "plot twist"
+        ]
+    },
+    {
+        "value": "poetry",
+        "synonyms": [
+            "poetry",
+            "poetry"
+        ]
+    },
+    {
+        "value": "poignant",
+        "synonyms": [
+            "poignant",
+            "poignant"
+        ]
+    },
+    {
+        "value": "pointless",
+        "synonyms": [
+            "pointless",
+            "pointless"
+        ]
+    },
+    {
+        "value": "poker",
+        "synonyms": [
+            "poker",
+            "poker"
+        ]
+    },
+    {
+        "value": "poland",
+        "synonyms": [
+            "poland",
+            "poland"
+        ]
+    },
+    {
+        "value": "police",
+        "synonyms": [
+            "police",
+            "police"
+        ]
+    },
+    {
+        "value": "police corruption",
+        "synonyms": [
+            "police corruption",
+            "police corruption"
+        ]
+    },
+    {
+        "value": "police investigation",
+        "synonyms": [
+            "police investigation",
+            "police investigation"
+        ]
+    },
+    {
+        "value": "political",
+        "synonyms": [
+            "political",
+            "political"
+        ]
+    },
+    {
+        "value": "political corruption",
+        "synonyms": [
+            "political corruption",
+            "political corruption"
+        ]
+    },
+    {
+        "value": "politics",
+        "synonyms": [
+            "politics",
+            "politics"
+        ]
+    },
+    {
+        "value": "pornography",
+        "synonyms": [
+            "pornography",
+            "pornography"
+        ]
+    },
+    {
+        "value": "post apocalyptic",
+        "synonyms": [
+            "post apocalyptic",
+            "post apocalyptic"
+        ]
+    },
+    {
+        "value": "post-apocalyptic",
+        "synonyms": [
+            "post-apocalyptic",
+            "post apocalyptic"
+        ]
+    },
+    {
+        "value": "potential oscar nom",
+        "synonyms": [
+            "potential oscar nom",
+            "potential oscar nom"
+        ]
+    },
+    {
+        "value": "poverty",
+        "synonyms": [
+            "poverty",
+            "poverty"
+        ]
+    },
+    {
+        "value": "powerful ending",
+        "synonyms": [
+            "powerful ending",
+            "powerful ending"
+        ]
+    },
+    {
+        "value": "predictable",
+        "synonyms": [
+            "predictable",
+            "predictable"
+        ]
+    },
+    {
+        "value": "pregnancy",
+        "synonyms": [
+            "pregnancy",
+            "pregnancy"
+        ]
+    },
+    {
+        "value": "prejudice",
+        "synonyms": [
+            "prejudice",
+            "prejudice"
+        ]
+    },
+    {
+        "value": "prequel",
+        "synonyms": [
+            "prequel",
+            "prequel"
+        ]
+    },
+    {
+        "value": "president",
+        "synonyms": [
+            "president",
+            "president"
+        ]
+    },
+    {
+        "value": "pretentious",
+        "synonyms": [
+            "pretentious",
+            "pretentious"
+        ]
+    },
+    {
+        "value": "prison",
+        "synonyms": [
+            "prison",
+            "prison"
+        ]
+    },
+    {
+        "value": "prison escape",
+        "synonyms": [
+            "prison escape",
+            "prison escape"
+        ]
+    },
+    {
+        "value": "private detective",
+        "synonyms": [
+            "private detective",
+            "private detective"
+        ]
+    },
+    {
+        "value": "product placement",
+        "synonyms": [
+            "product placement",
+            "product placement"
+        ]
+    },
+    {
+        "value": "prohibition",
+        "synonyms": [
+            "prohibition",
+            "prohibition"
+        ]
+    },
+    {
+        "value": "propaganda",
+        "synonyms": [
+            "propaganda",
+            "propaganda"
+        ]
+    },
+    {
+        "value": "prostitution",
+        "synonyms": [
+            "prostitution",
+            "prostitution"
+        ]
+    },
+    {
+        "value": "psychedelic",
+        "synonyms": [
+            "psychedelic",
+            "psychedelic"
+        ]
+    },
+    {
+        "value": "psychiatrist",
+        "synonyms": [
+            "psychiatrist",
+            "psychiatrist"
+        ]
+    },
+    {
+        "value": "psychiatry",
+        "synonyms": [
+            "psychiatry",
+            "psychiatry"
+        ]
+    },
+    {
+        "value": "psychological",
+        "synonyms": [
+            "psychological",
+            "psychological"
+        ]
+    },
+    {
+        "value": "psychology",
+        "synonyms": [
+            "psychology",
+            "psychology"
+        ]
+    },
+    {
+        "value": "pulp",
+        "synonyms": [
+            "pulp",
+            "pulp"
+        ]
+    },
+    {
+        "value": "punk",
+        "synonyms": [
+            "punk",
+            "punk"
+        ]
+    },
+    {
+        "value": "puppets",
+        "synonyms": [
+            "puppets",
+            "puppets"
+        ]
+    },
+    {
+        "value": "queer",
+        "synonyms": [
+            "queer",
+            "queer"
+        ]
+    },
+    {
+        "value": "quirky",
+        "synonyms": [
+            "quirky",
+            "quirky"
+        ]
+    },
+    {
+        "value": "quotable",
+        "synonyms": [
+            "quotable",
+            "quotable"
+        ]
+    },
+    {
+        "value": "rabbits",
+        "synonyms": [
+            "rabbits",
+            "rabbits"
+        ]
+    },
+    {
+        "value": "race",
+        "synonyms": [
+            "race",
+            "race"
+        ]
+    },
+    {
+        "value": "race issues",
+        "synonyms": [
+            "race issues",
+            "race issues"
+        ]
+    },
+    {
+        "value": "racing",
+        "synonyms": [
+            "racing",
+            "racing"
+        ]
+    },
+    {
+        "value": "racism",
+        "synonyms": [
+            "racism",
+            "racism"
+        ]
+    },
+    {
+        "value": "radio",
+        "synonyms": [
+            "radio",
+            "radio"
+        ]
+    },
+    {
+        "value": "rags to riches",
+        "synonyms": [
+            "rags to riches",
+            "rags to riches"
+        ]
+    },
+    {
+        "value": "rape",
+        "synonyms": [
+            "rape",
+            "rape"
+        ]
+    },
+    {
+        "value": "rats",
+        "synonyms": [
+            "rats",
+            "rats"
+        ]
+    },
+    {
+        "value": "realistic",
+        "synonyms": [
+            "realistic",
+            "realistic"
+        ]
+    },
+    {
+        "value": "realistic action",
+        "synonyms": [
+            "realistic action",
+            "realistic action"
+        ]
+    },
+    {
+        "value": "reality tv",
+        "synonyms": [
+            "reality tv",
+            "reality tv"
+        ]
+    },
+    {
+        "value": "rebellion",
+        "synonyms": [
+            "rebellion",
+            "rebellion"
+        ]
+    },
+    {
+        "value": "redemption",
+        "synonyms": [
+            "redemption",
+            "redemption"
+        ]
+    },
+    {
+        "value": "reflective",
+        "synonyms": [
+            "reflective",
+            "reflective"
+        ]
+    },
+    {
+        "value": "relationships",
+        "synonyms": [
+            "relationships",
+            "relationships"
+        ]
+    },
+    {
+        "value": "religion",
+        "synonyms": [
+            "religion",
+            "religion"
+        ]
+    },
+    {
+        "value": "remade",
+        "synonyms": [
+            "remade",
+            "remade"
+        ]
+    },
+    {
+        "value": "remake",
+        "synonyms": [
+            "remake",
+            "remake"
+        ]
+    },
+    {
+        "value": "revenge",
+        "synonyms": [
+            "revenge",
+            "revenge"
+        ]
+    },
+    {
+        "value": "revolution",
+        "synonyms": [
+            "revolution",
+            "revolution"
+        ]
+    },
+    {
+        "value": "ridiculous",
+        "synonyms": [
+            "ridiculous",
+            "ridiculous"
+        ]
+    },
+    {
+        "value": "rio de janeiro",
+        "synonyms": [
+            "rio de janeiro",
+            "rio de janeiro"
+        ]
+    },
+    {
+        "value": "road movie",
+        "synonyms": [
+            "road movie",
+            "road movie"
+        ]
+    },
+    {
+        "value": "road trip",
+        "synonyms": [
+            "road trip",
+            "road trip"
+        ]
+    },
+    {
+        "value": "roald dahl",
+        "synonyms": [
+            "roald dahl",
+            "roald dahl"
+        ]
+    },
+    {
+        "value": "robbery",
+        "synonyms": [
+            "robbery",
+            "robbery"
+        ]
+    },
+    {
+        "value": "robert downey jr",
+        "synonyms": [
+            "robert downey jr",
+            "robert downey jr"
+        ]
+    },
+    {
+        "value": "robert ludlum",
+        "synonyms": [
+            "robert ludlum",
+            "robert ludlum"
+        ]
+    },
+    {
+        "value": "robot",
+        "synonyms": [
+            "robot",
+            "robot"
+        ]
+    },
+    {
+        "value": "robots",
+        "synonyms": [
+            "robots",
+            "robots"
+        ]
+    },
+    {
+        "value": "rock and roll",
+        "synonyms": [
+            "rock and roll",
+            "rock and roll"
+        ]
+    },
+    {
+        "value": "romance",
+        "synonyms": [
+            "romance",
+            "romance"
+        ]
+    },
+    {
+        "value": "romantic",
+        "synonyms": [
+            "romantic",
+            "romantic"
+        ]
+    },
+    {
+        "value": "romantic comedy",
+        "synonyms": [
+            "romantic comedy",
+            "romantic comedy"
+        ]
+    },
+    {
+        "value": "rome",
+        "synonyms": [
+            "rome",
+            "rome"
+        ]
+    },
+    {
+        "value": "runaway",
+        "synonyms": [
+            "runaway",
+            "runaway"
+        ]
+    },
+    {
+        "value": "russia",
+        "synonyms": [
+            "russia",
+            "russia"
+        ]
+    },
+    {
+        "value": "russian",
+        "synonyms": [
+            "russian",
+            "russian"
+        ]
+    },
+    {
+        "value": "sacrifice",
+        "synonyms": [
+            "sacrifice",
+            "sacrifice"
+        ]
+    },
+    {
+        "value": "sad",
+        "synonyms": [
+            "sad",
+            "sad"
+        ]
+    },
+    {
+        "value": "sad but good",
+        "synonyms": [
+            "sad but good",
+            "sad but good"
+        ]
+    },
+    {
+        "value": "samurai",
+        "synonyms": [
+            "samurai",
+            "samurai"
+        ]
+    },
+    {
+        "value": "san francisco",
+        "synonyms": [
+            "san francisco",
+            "san francisco"
+        ]
+    },
+    {
+        "value": "sappy",
+        "synonyms": [
+            "sappy",
+            "sappy"
+        ]
+    },
+    {
+        "value": "sarcasm",
+        "synonyms": [
+            "sarcasm",
+            "sarcasm"
+        ]
+    },
+    {
+        "value": "satire",
+        "synonyms": [
+            "satire",
+            "satire"
+        ]
+    },
+    {
+        "value": "satirical",
+        "synonyms": [
+            "satirical",
+            "satirical"
+        ]
+    },
+    {
+        "value": "saturday night live",
+        "synonyms": [
+            "saturday night live",
+            "saturday night live"
+        ]
+    },
+    {
+        "value": "saturn award (best science fiction film)",
+        "synonyms": [
+            "saturn award (best science fiction film)",
+            "saturn award (best science fiction film)"
+        ]
+    },
+    {
+        "value": "saturn award (best special effects)",
+        "synonyms": [
+            "saturn award (best special effects)",
+            "saturn award (best special effects)"
+        ]
+    },
+    {
+        "value": "scary",
+        "synonyms": [
+            "scary",
+            "scary"
+        ]
+    },
+    {
+        "value": "scenic",
+        "synonyms": [
+            "scenic",
+            "scenic"
+        ]
+    },
+    {
+        "value": "schizophrenia",
+        "synonyms": [
+            "schizophrenia",
+            "schizophrenia"
+        ]
+    },
+    {
+        "value": "school",
+        "synonyms": [
+            "school",
+            "school"
+        ]
+    },
+    {
+        "value": "sci fi",
+        "synonyms": [
+            "sci fi",
+            "sci fi"
+        ]
+    },
+    {
+        "value": "sci-fi",
+        "synonyms": [
+            "sci-fi",
+            "sci fi"
+        ]
+    },
+    {
+        "value": "science",
+        "synonyms": [
+            "science",
+            "science"
+        ]
+    },
+    {
+        "value": "science fiction",
+        "synonyms": [
+            "science fiction",
+            "science fiction"
+        ]
+    },
+    {
+        "value": "scifi",
+        "synonyms": [
+            "scifi",
+            "scifi"
+        ]
+    },
+    {
+        "value": "scifi cult",
+        "synonyms": [
+            "scifi cult",
+            "scifi cult"
+        ]
+    },
+    {
+        "value": "scotland",
+        "synonyms": [
+            "scotland",
+            "scotland"
+        ]
+    },
+    {
+        "value": "screwball",
+        "synonyms": [
+            "screwball",
+            "screwball"
+        ]
+    },
+    {
+        "value": "screwball comedy",
+        "synonyms": [
+            "screwball comedy",
+            "screwball comedy"
+        ]
+    },
+    {
+        "value": "script",
+        "synonyms": [
+            "script",
+            "script"
+        ]
+    },
+    {
+        "value": "secret service",
+        "synonyms": [
+            "secret service",
+            "secret service"
+        ]
+    },
+    {
+        "value": "secrets",
+        "synonyms": [
+            "secrets",
+            "secrets"
+        ]
+    },
+    {
+        "value": "segregation",
+        "synonyms": [
+            "segregation",
+            "segregation"
+        ]
+    },
+    {
+        "value": "self discovery",
+        "synonyms": [
+            "self discovery",
+            "self discovery"
+        ]
+    },
+    {
+        "value": "sentimental",
+        "synonyms": [
+            "sentimental",
+            "sentimental"
+        ]
+    },
+    {
+        "value": "sequel",
+        "synonyms": [
+            "sequel",
+            "sequel"
+        ]
+    },
+    {
+        "value": "sequels",
+        "synonyms": [
+            "sequels",
+            "sequels"
+        ]
+    },
+    {
+        "value": "serial killer",
+        "synonyms": [
+            "serial killer",
+            "serial killer"
+        ]
+    },
+    {
+        "value": "series",
+        "synonyms": [
+            "series",
+            "series"
+        ]
+    },
+    {
+        "value": "sex",
+        "synonyms": [
+            "sex",
+            "sex"
+        ]
+    },
+    {
+        "value": "sex comedy",
+        "synonyms": [
+            "sex comedy",
+            "sex comedy"
+        ]
+    },
+    {
+        "value": "sexual",
+        "synonyms": [
+            "sexual",
+            "sexual"
+        ]
+    },
+    {
+        "value": "sexual abuse",
+        "synonyms": [
+            "sexual abuse",
+            "sexual abuse"
+        ]
+    },
+    {
+        "value": "sexuality",
+        "synonyms": [
+            "sexuality",
+            "sexuality"
+        ]
+    },
+    {
+        "value": "sexualized violence",
+        "synonyms": [
+            "sexualized violence",
+            "sexualized violence"
+        ]
+    },
+    {
+        "value": "sexy",
+        "synonyms": [
+            "sexy",
+            "sexy"
+        ]
+    },
+    {
+        "value": "shakespeare",
+        "synonyms": [
+            "shakespeare",
+            "shakespeare"
+        ]
+    },
+    {
+        "value": "shallow",
+        "synonyms": [
+            "shallow",
+            "shallow"
+        ]
+    },
+    {
+        "value": "shark",
+        "synonyms": [
+            "shark",
+            "shark"
+        ]
+    },
+    {
+        "value": "shopping",
+        "synonyms": [
+            "shopping",
+            "shopping"
+        ]
+    },
+    {
+        "value": "short",
+        "synonyms": [
+            "short",
+            "short"
+        ]
+    },
+    {
+        "value": "short-term memory loss",
+        "synonyms": [
+            "short-term memory loss",
+            "short term memory loss"
+        ]
+    },
+    {
+        "value": "silent",
+        "synonyms": [
+            "silent",
+            "silent"
+        ]
+    },
+    {
+        "value": "silly",
+        "synonyms": [
+            "silly",
+            "silly"
+        ]
+    },
+    {
+        "value": "silly fun",
+        "synonyms": [
+            "silly fun",
+            "silly fun"
+        ]
+    },
+    {
+        "value": "simple",
+        "synonyms": [
+            "simple",
+            "simple"
+        ]
+    },
+    {
+        "value": "single father",
+        "synonyms": [
+            "single father",
+            "single father"
+        ]
+    },
+    {
+        "value": "sisters",
+        "synonyms": [
+            "sisters",
+            "sisters"
+        ]
+    },
+    {
+        "value": "skinhead",
+        "synonyms": [
+            "skinhead",
+            "skinhead"
+        ]
+    },
+    {
+        "value": "slackers",
+        "synonyms": [
+            "slackers",
+            "slackers"
+        ]
+    },
+    {
+        "value": "slapstick",
+        "synonyms": [
+            "slapstick",
+            "slapstick"
+        ]
+    },
+    {
+        "value": "slasher",
+        "synonyms": [
+            "slasher",
+            "slasher"
+        ]
+    },
+    {
+        "value": "slavery",
+        "synonyms": [
+            "slavery",
+            "slavery"
+        ]
+    },
+    {
+        "value": "slow",
+        "synonyms": [
+            "slow",
+            "slow"
+        ]
+    },
+    {
+        "value": "slow paced",
+        "synonyms": [
+            "slow paced",
+            "slow paced"
+        ]
+    },
+    {
+        "value": "small town",
+        "synonyms": [
+            "small town",
+            "small town"
+        ]
+    },
+    {
+        "value": "snakes",
+        "synonyms": [
+            "snakes",
+            "snakes"
+        ]
+    },
+    {
+        "value": "so bad it's funny",
+        "synonyms": [
+            "so bad it's funny",
+            "so bad it's funny"
+        ]
+    },
+    {
+        "value": "so bad it's good",
+        "synonyms": [
+            "so bad it's good",
+            "so bad it's good"
+        ]
+    },
+    {
+        "value": "soccer",
+        "synonyms": [
+            "soccer",
+            "soccer"
+        ]
+    },
+    {
+        "value": "social commentary",
+        "synonyms": [
+            "social commentary",
+            "social commentary"
+        ]
+    },
+    {
+        "value": "solitude",
+        "synonyms": [
+            "solitude",
+            "solitude"
+        ]
+    },
+    {
+        "value": "sophia coppola",
+        "synonyms": [
+            "sophia coppola",
+            "sophia coppola"
+        ]
+    },
+    {
+        "value": "south africa",
+        "synonyms": [
+            "south africa",
+            "south africa"
+        ]
+    },
+    {
+        "value": "south america",
+        "synonyms": [
+            "south america",
+            "south america"
+        ]
+    },
+    {
+        "value": "southern theme",
+        "synonyms": [
+            "southern theme",
+            "southern theme"
+        ]
+    },
+    {
+        "value": "space",
+        "synonyms": [
+            "space",
+            "space"
+        ]
+    },
+    {
+        "value": "space opera",
+        "synonyms": [
+            "space opera",
+            "space opera"
+        ]
+    },
+    {
+        "value": "space program",
+        "synonyms": [
+            "space program",
+            "space program"
+        ]
+    },
+    {
+        "value": "space travel",
+        "synonyms": [
+            "space travel",
+            "space travel"
+        ]
+    },
+    {
+        "value": "spaghetti western",
+        "synonyms": [
+            "spaghetti western",
+            "spaghetti western"
+        ]
+    },
+    {
+        "value": "spain",
+        "synonyms": [
+            "spain",
+            "spain"
+        ]
+    },
+    {
+        "value": "spanish",
+        "synonyms": [
+            "spanish",
+            "spanish"
+        ]
+    },
+    {
+        "value": "spanish civil war",
+        "synonyms": [
+            "spanish civil war",
+            "spanish civil war"
+        ]
+    },
+    {
+        "value": "special",
+        "synonyms": [
+            "special",
+            "special"
+        ]
+    },
+    {
+        "value": "special effects",
+        "synonyms": [
+            "special effects",
+            "special effects"
+        ]
+    },
+    {
+        "value": "spelling bee",
+        "synonyms": [
+            "spelling bee",
+            "spelling bee"
+        ]
+    },
+    {
+        "value": "spiders",
+        "synonyms": [
+            "spiders",
+            "spiders"
+        ]
+    },
+    {
+        "value": "spielberg",
+        "synonyms": [
+            "spielberg",
+            "spielberg"
+        ]
+    },
+    {
+        "value": "spies",
+        "synonyms": [
+            "spies",
+            "spies"
+        ]
+    },
+    {
+        "value": "splatter",
+        "synonyms": [
+            "splatter",
+            "splatter"
+        ]
+    },
+    {
+        "value": "spock",
+        "synonyms": [
+            "spock",
+            "spock"
+        ]
+    },
+    {
+        "value": "spoof",
+        "synonyms": [
+            "spoof",
+            "spoof"
+        ]
+    },
+    {
+        "value": "sports",
+        "synonyms": [
+            "sports",
+            "sports"
+        ]
+    },
+    {
+        "value": "spy",
+        "synonyms": [
+            "spy",
+            "spy"
+        ]
+    },
+    {
+        "value": "spying",
+        "synonyms": [
+            "spying",
+            "spying"
+        ]
+    },
+    {
+        "value": "stage magic",
+        "synonyms": [
+            "stage magic",
+            "stage magic"
+        ]
+    },
+    {
+        "value": "stand-up comedy",
+        "synonyms": [
+            "stand-up comedy",
+            "stand up comedy"
+        ]
+    },
+    {
+        "value": "star trek",
+        "synonyms": [
+            "star trek",
+            "star trek"
+        ]
+    },
+    {
+        "value": "star wars",
+        "synonyms": [
+            "star wars",
+            "star wars"
+        ]
+    },
+    {
+        "value": "steampunk",
+        "synonyms": [
+            "steampunk",
+            "steampunk"
+        ]
+    },
+    {
+        "value": "stereotypes",
+        "synonyms": [
+            "stereotypes",
+            "stereotypes"
+        ]
+    },
+    {
+        "value": "stoner movie",
+        "synonyms": [
+            "stoner movie",
+            "stoner movie"
+        ]
+    },
+    {
+        "value": "stop motion",
+        "synonyms": [
+            "stop motion",
+            "stop motion"
+        ]
+    },
+    {
+        "value": "stop-motion",
+        "synonyms": [
+            "stop-motion",
+            "stop motion"
+        ]
+    },
+    {
+        "value": "story",
+        "synonyms": [
+            "story",
+            "story"
+        ]
+    },
+    {
+        "value": "storytelling",
+        "synonyms": [
+            "storytelling",
+            "storytelling"
+        ]
+    },
+    {
+        "value": "stranded",
+        "synonyms": [
+            "stranded",
+            "stranded"
+        ]
+    },
+    {
+        "value": "strange",
+        "synonyms": [
+            "strange",
+            "strange"
+        ]
+    },
+    {
+        "value": "strippers",
+        "synonyms": [
+            "strippers",
+            "strippers"
+        ]
+    },
+    {
+        "value": "studio ghibli",
+        "synonyms": [
+            "studio ghibli",
+            "studio ghibli"
+        ]
+    },
+    {
+        "value": "stunning",
+        "synonyms": [
+            "stunning",
+            "stunning"
+        ]
+    },
+    {
+        "value": "stupid",
+        "synonyms": [
+            "stupid",
+            "stupid"
+        ]
+    },
+    {
+        "value": "stupid as hell",
+        "synonyms": [
+            "stupid as hell",
+            "stupid as hell"
+        ]
+    },
+    {
+        "value": "stupidity",
+        "synonyms": [
+            "stupidity",
+            "stupidity"
+        ]
+    },
+    {
+        "value": "stylish",
+        "synonyms": [
+            "stylish",
+            "stylish"
+        ]
+    },
+    {
+        "value": "stylized",
+        "synonyms": [
+            "stylized",
+            "stylized"
+        ]
+    },
+    {
+        "value": "submarine",
+        "synonyms": [
+            "submarine",
+            "submarine"
+        ]
+    },
+    {
+        "value": "suburbia",
+        "synonyms": [
+            "suburbia",
+            "suburbia"
+        ]
+    },
+    {
+        "value": "suicide",
+        "synonyms": [
+            "suicide",
+            "suicide"
+        ]
+    },
+    {
+        "value": "suicide attempt",
+        "synonyms": [
+            "suicide attempt",
+            "suicide attempt"
+        ]
+    },
+    {
+        "value": "super hero",
+        "synonyms": [
+            "super hero",
+            "super hero"
+        ]
+    },
+    {
+        "value": "super-hero",
+        "synonyms": [
+            "super-hero",
+            "super hero"
+        ]
+    },
+    {
+        "value": "superhero",
+        "synonyms": [
+            "superhero",
+            "superhero"
+        ]
+    },
+    {
+        "value": "superheroes",
+        "synonyms": [
+            "superheroes",
+            "superheroes"
+        ]
+    },
+    {
+        "value": "supernatural",
+        "synonyms": [
+            "supernatural",
+            "supernatural"
+        ]
+    },
+    {
+        "value": "suprisingly clever",
+        "synonyms": [
+            "suprisingly clever",
+            "suprisingly clever"
+        ]
+    },
+    {
+        "value": "surfing",
+        "synonyms": [
+            "surfing",
+            "surfing"
+        ]
+    },
+    {
+        "value": "surprise ending",
+        "synonyms": [
+            "surprise ending",
+            "surprise ending"
+        ]
+    },
+    {
+        "value": "surreal",
+        "synonyms": [
+            "surreal",
+            "surreal"
+        ]
+    },
+    {
+        "value": "surrealism",
+        "synonyms": [
+            "surrealism",
+            "surrealism"
+        ]
+    },
+    {
+        "value": "surveillance",
+        "synonyms": [
+            "surveillance",
+            "surveillance"
+        ]
+    },
+    {
+        "value": "survival",
+        "synonyms": [
+            "survival",
+            "survival"
+        ]
+    },
+    {
+        "value": "suspense",
+        "synonyms": [
+            "suspense",
+            "suspense"
+        ]
+    },
+    {
+        "value": "suspenseful",
+        "synonyms": [
+            "suspenseful",
+            "suspenseful"
+        ]
+    },
+    {
+        "value": "swashbuckler",
+        "synonyms": [
+            "swashbuckler",
+            "swashbuckler"
+        ]
+    },
+    {
+        "value": "swedish",
+        "synonyms": [
+            "swedish",
+            "swedish"
+        ]
+    },
+    {
+        "value": "sweet",
+        "synonyms": [
+            "sweet",
+            "sweet"
+        ]
+    },
+    {
+        "value": "switching places",
+        "synonyms": [
+            "switching places",
+            "switching places"
+        ]
+    },
+    {
+        "value": "sword fight",
+        "synonyms": [
+            "sword fight",
+            "sword fight"
+        ]
+    },
+    {
+        "value": "sword fighting",
+        "synonyms": [
+            "sword fighting",
+            "sword fighting"
+        ]
+    },
+    {
+        "value": "talking animals",
+        "synonyms": [
+            "talking animals",
+            "talking animals"
+        ]
+    },
+    {
+        "value": "talky",
+        "synonyms": [
+            "talky",
+            "talky"
+        ]
+    },
+    {
+        "value": "tarantino",
+        "synonyms": [
+            "tarantino",
+            "tarantino"
+        ]
+    },
+    {
+        "value": "teacher",
+        "synonyms": [
+            "teacher",
+            "teacher"
+        ]
+    },
+    {
+        "value": "tear jerker",
+        "synonyms": [
+            "tear jerker",
+            "tear jerker"
+        ]
+    },
+    {
+        "value": "technology",
+        "synonyms": [
+            "technology",
+            "technology"
+        ]
+    },
+    {
+        "value": "teen",
+        "synonyms": [
+            "teen",
+            "teen"
+        ]
+    },
+    {
+        "value": "teen movie",
+        "synonyms": [
+            "teen movie",
+            "teen movie"
+        ]
+    },
+    {
+        "value": "teenager",
+        "synonyms": [
+            "teenager",
+            "teenager"
+        ]
+    },
+    {
+        "value": "teenagers",
+        "synonyms": [
+            "teenagers",
+            "teenagers"
+        ]
+    },
+    {
+        "value": "teens",
+        "synonyms": [
+            "teens",
+            "teens"
+        ]
+    },
+    {
+        "value": "teleportation",
+        "synonyms": [
+            "teleportation",
+            "teleportation"
+        ]
+    },
+    {
+        "value": "television",
+        "synonyms": [
+            "television",
+            "television"
+        ]
+    },
+    {
+        "value": "tense",
+        "synonyms": [
+            "tense",
+            "tense"
+        ]
+    },
+    {
+        "value": "terminal illness",
+        "synonyms": [
+            "terminal illness",
+            "terminal illness"
+        ]
+    },
+    {
+        "value": "terrorism",
+        "synonyms": [
+            "terrorism",
+            "terrorism"
+        ]
+    },
+    {
+        "value": "texas",
+        "synonyms": [
+            "texas",
+            "texas"
+        ]
+    },
+    {
+        "value": "thought-provoking",
+        "synonyms": [
+            "thought-provoking",
+            "thought provoking"
+        ]
+    },
+    {
+        "value": "thriller",
+        "synonyms": [
+            "thriller",
+            "thriller"
+        ]
+    },
+    {
+        "value": "time",
+        "synonyms": [
+            "time",
+            "time"
+        ]
+    },
+    {
+        "value": "time loop",
+        "synonyms": [
+            "time loop",
+            "time loop"
+        ]
+    },
+    {
+        "value": "time travel",
+        "synonyms": [
+            "time travel",
+            "time travel"
+        ]
+    },
+    {
+        "value": "tokyo",
+        "synonyms": [
+            "tokyo",
+            "tokyo"
+        ]
+    },
+    {
+        "value": "tolkien",
+        "synonyms": [
+            "tolkien",
+            "tolkien"
+        ]
+    },
+    {
+        "value": "tom clancy",
+        "synonyms": [
+            "tom clancy",
+            "tom clancy"
+        ]
+    },
+    {
+        "value": "too long",
+        "synonyms": [
+            "too long",
+            "too long"
+        ]
+    },
+    {
+        "value": "too short",
+        "synonyms": [
+            "too short",
+            "too short"
+        ]
+    },
+    {
+        "value": "torture",
+        "synonyms": [
+            "torture",
+            "torture"
+        ]
+    },
+    {
+        "value": "touching",
+        "synonyms": [
+            "touching",
+            "touching"
+        ]
+    },
+    {
+        "value": "toys",
+        "synonyms": [
+            "toys",
+            "toys"
+        ]
+    },
+    {
+        "value": "tragedy",
+        "synonyms": [
+            "tragedy",
+            "tragedy"
+        ]
+    },
+    {
+        "value": "train",
+        "synonyms": [
+            "train",
+            "train"
+        ]
+    },
+    {
+        "value": "trains",
+        "synonyms": [
+            "trains",
+            "trains"
+        ]
+    },
+    {
+        "value": "transformation",
+        "synonyms": [
+            "transformation",
+            "transformation"
+        ]
+    },
+    {
+        "value": "transgender",
+        "synonyms": [
+            "transgender",
+            "transgender"
+        ]
+    },
+    {
+        "value": "travel",
+        "synonyms": [
+            "travel",
+            "travel"
+        ]
+    },
+    {
+        "value": "treasure",
+        "synonyms": [
+            "treasure",
+            "treasure"
+        ]
+    },
+    {
+        "value": "treasure hunt",
+        "synonyms": [
+            "treasure hunt",
+            "treasure hunt"
+        ]
+    },
+    {
+        "value": "tricky",
+        "synonyms": [
+            "tricky",
+            "tricky"
+        ]
+    },
+    {
+        "value": "trilogy",
+        "synonyms": [
+            "trilogy",
+            "trilogy"
+        ]
+    },
+    {
+        "value": "true story",
+        "synonyms": [
+            "true story",
+            "true story"
+        ]
+    },
+    {
+        "value": "truman capote",
+        "synonyms": [
+            "truman capote",
+            "truman capote"
+        ]
+    },
+    {
+        "value": "twist",
+        "synonyms": [
+            "twist",
+            "twist"
+        ]
+    },
+    {
+        "value": "twist ending",
+        "synonyms": [
+            "twist ending",
+            "twist ending"
+        ]
+    },
+    {
+        "value": "twists & turns",
+        "synonyms": [
+            "twists & turns",
+            "twists & turns"
+        ]
+    },
+    {
+        "value": "undercover cop",
+        "synonyms": [
+            "undercover cop",
+            "undercover cop"
+        ]
+    },
+    {
+        "value": "underdog",
+        "synonyms": [
+            "underdog",
+            "underdog"
+        ]
+    },
+    {
+        "value": "underrated",
+        "synonyms": [
+            "underrated",
+            "underrated"
+        ]
+    },
+    {
+        "value": "understated",
+        "synonyms": [
+            "understated",
+            "understated"
+        ]
+    },
+    {
+        "value": "underwater",
+        "synonyms": [
+            "underwater",
+            "underwater"
+        ]
+    },
+    {
+        "value": "unfunny",
+        "synonyms": [
+            "unfunny",
+            "unfunny"
+        ]
+    },
+    {
+        "value": "unintentionally funny",
+        "synonyms": [
+            "unintentionally funny",
+            "unintentionally funny"
+        ]
+    },
+    {
+        "value": "unique",
+        "synonyms": [
+            "unique",
+            "unique"
+        ]
+    },
+    {
+        "value": "united nations",
+        "synonyms": [
+            "united nations",
+            "united nations"
+        ]
+    },
+    {
+        "value": "unlikeable characters",
+        "synonyms": [
+            "unlikeable characters",
+            "unlikeable characters"
+        ]
+    },
+    {
+        "value": "unlikely friendships",
+        "synonyms": [
+            "unlikely friendships",
+            "unlikely friendships"
+        ]
+    },
+    {
+        "value": "unrealistic",
+        "synonyms": [
+            "unrealistic",
+            "unrealistic"
+        ]
+    },
+    {
+        "value": "unusual plot structure",
+        "synonyms": [
+            "unusual plot structure",
+            "unusual plot structure"
+        ]
+    },
+    {
+        "value": "us history",
+        "synonyms": [
+            "us history",
+            "us history"
+        ]
+    },
+    {
+        "value": "utopia",
+        "synonyms": [
+            "utopia",
+            "utopia"
+        ]
+    },
+    {
+        "value": "vampire",
+        "synonyms": [
+            "vampire",
+            "vampire"
+        ]
+    },
+    {
+        "value": "vampire human love",
+        "synonyms": [
+            "vampire human love",
+            "vampire human love"
+        ]
+    },
+    {
+        "value": "vampires",
+        "synonyms": [
+            "vampires",
+            "vampires"
+        ]
+    },
+    {
+        "value": "vengeance",
+        "synonyms": [
+            "vengeance",
+            "vengeance"
+        ]
+    },
+    {
+        "value": "very funny",
+        "synonyms": [
+            "very funny",
+            "very funny"
+        ]
+    },
+    {
+        "value": "very good",
+        "synonyms": [
+            "very good",
+            "very good"
+        ]
+    },
+    {
+        "value": "very interesting",
+        "synonyms": [
+            "very interesting",
+            "very interesting"
+        ]
+    },
+    {
+        "value": "video game",
+        "synonyms": [
+            "video game",
+            "video game"
+        ]
+    },
+    {
+        "value": "video game adaptation",
+        "synonyms": [
+            "video game adaptation",
+            "video game adaptation"
+        ]
+    },
+    {
+        "value": "video games",
+        "synonyms": [
+            "video games",
+            "video games"
+        ]
+    },
+    {
+        "value": "videogame",
+        "synonyms": [
+            "videogame",
+            "videogame"
+        ]
+    },
+    {
+        "value": "vienna",
+        "synonyms": [
+            "vienna",
+            "vienna"
+        ]
+    },
+    {
+        "value": "vietnam",
+        "synonyms": [
+            "vietnam",
+            "vietnam"
+        ]
+    },
+    {
+        "value": "vietnam war",
+        "synonyms": [
+            "vietnam war",
+            "vietnam war"
+        ]
+    },
+    {
+        "value": "view askew",
+        "synonyms": [
+            "view askew",
+            "view askew"
+        ]
+    },
+    {
+        "value": "vigilante",
+        "synonyms": [
+            "vigilante",
+            "vigilante"
+        ]
+    },
+    {
+        "value": "vigilantism",
+        "synonyms": [
+            "vigilantism",
+            "vigilantism"
+        ]
+    },
+    {
+        "value": "violence",
+        "synonyms": [
+            "violence",
+            "violence"
+        ]
+    },
+    {
+        "value": "violent",
+        "synonyms": [
+            "violent",
+            "violent"
+        ]
+    },
+    {
+        "value": "virginity",
+        "synonyms": [
+            "virginity",
+            "virginity"
+        ]
+    },
+    {
+        "value": "virtual reality",
+        "synonyms": [
+            "virtual reality",
+            "virtual reality"
+        ]
+    },
+    {
+        "value": "virus",
+        "synonyms": [
+            "virus",
+            "virus"
+        ]
+    },
+    {
+        "value": "visceral",
+        "synonyms": [
+            "visceral",
+            "visceral"
+        ]
+    },
+    {
+        "value": "visual",
+        "synonyms": [
+            "visual",
+            "visual"
+        ]
+    },
+    {
+        "value": "visually appealing",
+        "synonyms": [
+            "visually appealing",
+            "visually appealing"
+        ]
+    },
+    {
+        "value": "visually stunning",
+        "synonyms": [
+            "visually stunning",
+            "visually stunning"
+        ]
+    },
+    {
+        "value": "visuals",
+        "synonyms": [
+            "visuals",
+            "visuals"
+        ]
+    },
+    {
+        "value": "voodoo",
+        "synonyms": [
+            "voodoo",
+            "voodoo"
+        ]
+    },
+    {
+        "value": "voyeurism",
+        "synonyms": [
+            "voyeurism",
+            "voyeurism"
+        ]
+    },
+    {
+        "value": "war",
+        "synonyms": [
+            "war",
+            "war"
+        ]
+    },
+    {
+        "value": "war movie",
+        "synonyms": [
+            "war movie",
+            "war movie"
+        ]
+    },
+    {
+        "value": "wartime",
+        "synonyms": [
+            "wartime",
+            "wartime"
+        ]
+    },
+    {
+        "value": "waste of time",
+        "synonyms": [
+            "waste of time",
+            "waste of time"
+        ]
+    },
+    {
+        "value": "watch the credits",
+        "synonyms": [
+            "watch the credits",
+            "watch the credits"
+        ]
+    },
+    {
+        "value": "weapons",
+        "synonyms": [
+            "weapons",
+            "weapons"
+        ]
+    },
+    {
+        "value": "wedding",
+        "synonyms": [
+            "wedding",
+            "wedding"
+        ]
+    },
+    {
+        "value": "weed",
+        "synonyms": [
+            "weed",
+            "weed"
+        ]
+    },
+    {
+        "value": "weird",
+        "synonyms": [
+            "weird",
+            "weird"
+        ]
+    },
+    {
+        "value": "werewolf",
+        "synonyms": [
+            "werewolf",
+            "werewolf"
+        ]
+    },
+    {
+        "value": "werewolves",
+        "synonyms": [
+            "werewolves",
+            "werewolves"
+        ]
+    },
+    {
+        "value": "western",
+        "synonyms": [
+            "western",
+            "western"
+        ]
+    },
+    {
+        "value": "whimsical",
+        "synonyms": [
+            "whimsical",
+            "whimsical"
+        ]
+    },
+    {
+        "value": "wilderness",
+        "synonyms": [
+            "wilderness",
+            "wilderness"
+        ]
+    },
+    {
+        "value": "wine",
+        "synonyms": [
+            "wine",
+            "wine"
+        ]
+    },
+    {
+        "value": "wistful",
+        "synonyms": [
+            "wistful",
+            "wistful"
+        ]
+    },
+    {
+        "value": "witch",
+        "synonyms": [
+            "witch",
+            "witch"
+        ]
+    },
+    {
+        "value": "witches",
+        "synonyms": [
+            "witches",
+            "witches"
+        ]
+    },
+    {
+        "value": "witty",
+        "synonyms": [
+            "witty",
+            "witty"
+        ]
+    },
+    {
+        "value": "wizards",
+        "synonyms": [
+            "wizards",
+            "wizards"
+        ]
+    },
+    {
+        "value": "women",
+        "synonyms": [
+            "women",
+            "women"
+        ]
+    },
+    {
+        "value": "working class",
+        "synonyms": [
+            "working class",
+            "working class"
+        ]
+    },
+    {
+        "value": "workplace",
+        "synonyms": [
+            "workplace",
+            "workplace"
+        ]
+    },
+    {
+        "value": "world politics",
+        "synonyms": [
+            "world politics",
+            "world politics"
+        ]
+    },
+    {
+        "value": "world war i",
+        "synonyms": [
+            "world war i",
+            "world war i"
+        ]
+    },
+    {
+        "value": "world war ii",
+        "synonyms": [
+            "world war ii",
+            "world war ii"
+        ]
+    },
+    {
+        "value": "writer's life",
+        "synonyms": [
+            "writer's life",
+            "writer's life"
+        ]
+    },
+    {
+        "value": "writers",
+        "synonyms": [
+            "writers",
+            "writers"
+        ]
+    },
+    {
+        "value": "writing",
+        "synonyms": [
+            "writing",
+            "writing"
+        ]
+    },
+    {
+        "value": "wuxia",
+        "synonyms": [
+            "wuxia",
+            "wuxia"
+        ]
+    },
+    {
+        "value": "wwii",
+        "synonyms": [
+            "wwii",
+            "wwii"
+        ]
+    },
+    {
+        "value": "zombie",
+        "synonyms": [
+            "zombie",
+            "zombie"
+        ]
+    },
+    {
+        "value": "zombies",
+        "synonyms": [
+            "zombies",
+            "zombies"
+        ]
+    }
+]
