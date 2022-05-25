@@ -25,7 +25,7 @@
 ## Introduction
 
 
-To use it visit: [Theatro](https://t.me/Theatro)
+To use it visit: [Theatro](t.me/TheatroBot)
 
 ## API
 
