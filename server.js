@@ -52,8 +52,10 @@ app.post('/get-details', async (req, res) => {
     await client.connect()
     try{
         await client.query('SET graph_path = imdb_graph'); //set graph path to gpt
-        resposta = await client.query("MATCH (n) return n;");
+        resposta = await client.query("MATCH (p:Person) RETURN p LIMIT 1");
+        console.log(resposta);
     }catch (err) {
+        console.log(err);
         resposta = err;
     }
     client.end();
