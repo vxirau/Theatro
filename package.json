@@ -2,9 +2,9 @@
   "name": "movie-wedbhook",
   "description": "Webhook pel chatbot",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -13,7 +13,11 @@
     "nodejs"
   ],
   "dependencies": {
+    "@bitnine-oss/ag-driver": "^0.1.0",
     "body-parser": "^1.18.2",
-    "express": "^4.16.1"
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0",
+    "pg": "^8.7.3"
   }
 }

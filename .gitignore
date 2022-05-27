@@ -1,3 +1,8 @@
 .idea/
 /.idea/
 node_modules/
+
+datasets/imdb/
+datasets/graph/
+datasets/graph/global/
+
