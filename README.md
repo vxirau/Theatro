@@ -29,6 +29,11 @@ To use it visit: [Theatro](t.me/TheatroBot)
 
 ## API
 
+Vaya show serà explicar això:
+
+Telegram -> DialogFlow -> Hasura -> AWS -> Hasura -> DialogFlow -> Telegram
+
+:)
 
 ## Example
 
