@@ -1,0 +1,11 @@
+{
+    "name": "Movie Wedbhook",
+    "description": "Webhook pel chatbot",
+    "repository": "https://github.com/VXGamez/Theatro.git",
+    "keywords": [
+        "movies",
+        "api.ai",
+        "chatbot",
+        "webhook"
+    ]
+}

@@ -88,6 +88,6 @@ server.post('/theatro', (req, res) => {
     });
 });
 
-server.listen((3000), () => {
+server.listen((process.env.PORT || 3000), () => {
     console.log("Server is up and running on http://localhost:3000/");
 });
