@@ -9,16 +9,28 @@ require("dotenv").config();
 const handler = require('./handler.js');
 
 const typeDefs = gql`
-  type Movie {
+  type Prod {
+    id: Int!
+    genres: [String!]!
+    originalTitle: String
+    runtimeMinutes: Int!
+    startYear: Int!
+    tConst: String!
     title: String!
-    year: Int
-    plot: String
+    titleType: [String!]!
     actors: [Person!]! @relationship(type: "ACTED_IN", direction: IN)
+    directors: [Person!]! @relationship(type: "DIRECTED", direction: IN)
   }
 
   type Person {
+    id: Int!
     name: String!
-    movies: [Movie!]! @relationship(type: "ACTED_IN", direction: OUT)
+    tConst: String!
+    birthYear: String!
+    deathYear: String!
+    primaryProfession: [String!]!
+    movies: [Prod!]! @relationship(type: "ACTED_IN", direction: OUT)
+    productions: [Prod!]! @relationship(type: "DIRECTED", direction: OUT)
   }
 `;
 
