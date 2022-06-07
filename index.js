@@ -1,13 +1,12 @@
 'use strict';
 
 const express = require('express');
-const bodyParser = require('body-parser');
-const https = require("https");
 const { gql, ApolloServer } = require("apollo-server");
 const { Neo4jGraphQL } = require("@neo4j/graphql");
 const neo4j = require("neo4j-driver");
 const { BreakingChangeType } = require('graphql');
 require("dotenv").config();
+const handler = require('./handler.js');
 
 const typeDefs = gql`
   type Movie {
@@ -45,28 +44,31 @@ const server = express();
 server.use(express.json());
 server.use(express.urlencoded({ extended: false }));
 
+
 server.post('/theatro', (req, res) => {
-    const intent = req.body.queryResult.intent.displayName;
-    let dataToSend;
+    const intent = req.body.queryResult.intent.displayName ?? '';
+    const movies = req.body.queryResult.parameters.movie ?? [];
+    const people = req.body.queryResult.parameters.person ?? [];
+    const categories = req.body.queryResult.parameters.category ?? [];
+    let msgToSend;
 
     switch (intent) {
         case 'recommendation':
-            dataToSend = handleRecommendation();
+            msgToSend = handler.handleRecommendation(movies, people, categories);
             break;
         case 'search':
-            dataToSend = handleSearch();
+            msgToSend = handler.handleSearch(movies, people);
             break;
         default:
-            dataToSend = 'Error';
+            msgToSend = 'Error';
     }
-    console.log(req.body);
 
     return res.json({
         "fulfillmentMessages": [
             {
                 "text": {
                     "text": [
-                        dataToSend
+                        msgToSend
                     ]
                 }
             }
@@ -77,13 +79,3 @@ server.post('/theatro', (req, res) => {
 server.listen((3000), () => {
     console.log("Server is up and running on http://localhost:3000/");
 });
-
-
-
-function handleRecommendation() {
-    return 'recommendation';
-}
-
-function handleSearch() {
-    return 'search';
-}
