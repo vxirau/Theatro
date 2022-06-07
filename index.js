@@ -13,8 +13,8 @@ const typeDefs = gql`
     id: Int!
     genres: [String!]!
     originalTitle: String
-    runtimeMinutes: Int!
-    startYear: Int!
+    runtimeMinutes: Int
+    startYear: Int
     tConst: String!
     title: String!
     titleType: [String!]!
@@ -26,10 +26,10 @@ const typeDefs = gql`
     id: Int!
     name: String!
     tConst: String!
-    birthYear: String!
-    deathYear: String!
+    birthYear: Int!
+    deathYear: Int
     primaryProfession: [String!]!
-    movies: [Prod!]! @relationship(type: "ACTED_IN", direction: OUT)
+    moviesActed: [Prod!]! @relationship(type: "ACTED_IN", direction: OUT)
     productions: [Prod!]! @relationship(type: "DIRECTED", direction: OUT)
   }
 `;
@@ -57,7 +57,7 @@ server.use(express.json());
 server.use(express.urlencoded({ extended: false }));
 
 
-server.post('/theatro', (req, res) => {
+server.post('/theatro', async (req, res) => {
     const intent = req.body.queryResult.intent.displayName ?? '';
     const movies = req.body.queryResult.parameters.movie ?? [];
     const people = req.body.queryResult.parameters.person ?? [];
@@ -66,10 +66,11 @@ server.post('/theatro', (req, res) => {
 
     switch (intent) {
         case 'recommendation':
-            msgToSend = handler.handleRecommendation(movies, people, categories);
+            msgToSend = await handler.handleRecommendation(movies, people, categories);
             break;
         case 'search':
-            msgToSend = handler.handleSearch(movies, people);
+            msgToSend = await handler.handleSearch(movies, people);
+            console.log(msgToSend);
             break;
         default:
             msgToSend = 'Error';
