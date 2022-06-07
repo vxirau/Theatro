@@ -1,23 +1,31 @@
 {
   "name": "movie-wedbhook",
-  "description": "Webhook pel chatbot",
+  "description": "Webhook for the Theatro Dialogflow Chatbot (to obtain information about movies)",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "movieDb",
+    "imdb",
     "webhook",
-    "nodejs"
+    "nodejs",
+    "dialogflow",
+    "neo4j",
+    "cypher",
+    "chatbot",
+    "graphql"
   ],
   "dependencies": {
-    "@bitnine-oss/ag-driver": "^0.1.0",
-    "body-parser": "^1.18.2",
+    "@neo4j/graphql": "^3.3.0",
+    "apollo-server": "^3.8.2",
+    "dotenv": "^16.0.1",
     "express": "^4.18.1",
-    "express-graphql": "^0.12.0",
-    "graphql": "^15.8.0",
-    "pg": "^8.7.3"
+    "graphql": "^16.5.0",
+    "neo4j-driver": "^4.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
   }
 }

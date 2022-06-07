@@ -1,6 +1,7 @@
 .idea/
 /.idea/
 node_modules/
+.env
 
 datasets/imdb/
 datasets/graph/

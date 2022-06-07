@@ -1,6 +1,7 @@
 //IMPORTS DE GRAPHQL
 // import { graphqlHTTP } from "express-graphql";
 // import { buildSchema } from "graphql";
+/*
 const express = require('express');
 var ag = require('@bitnine-oss/ag-driver');
 const app = express();
@@ -76,3 +77,4 @@ app.post('/get-details', async (req, res) => {
 app.listen(4000, () => {
   console.log("GraphQL server with Express running on localhost:5000/graphql");
 });
+*/
