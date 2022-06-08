@@ -65,7 +65,7 @@ server.post('/theatro', async (req, res) => {
     const intent = req.body.queryResult.intent.displayName ?? '';
     const movies = req.body.queryResult.parameters.movie ?? [];
     const people = req.body.queryResult.parameters.person ?? [];
-    const categories = req.body.queryResult.parameters.category ?? [];
+    const categories = req.body.queryResult.parameters.categories ?? [];
 
     //Convert person object to string
     for (let i = 0; i < people.length; i++)
