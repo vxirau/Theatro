@@ -10,12 +10,12 @@ const handler = require('./handler.js');
 
 const typeDefs = gql`
   type Prod {
-    id: Int!
+    id: Int
     genres: [String!]!
     originalTitle: String
     runtimeMinutes: Int
     startYear: Int
-    tConst: String!
+    tconst: String
     title: String!
     titleType: [String!]!
     actors: [Person!]! @relationship(type: "ACTED_IN", direction: IN)
@@ -23,9 +23,9 @@ const typeDefs = gql`
   }
 
   type Person {
-    id: Int!
+    id: Int
     name: String!
-    tConst: String!
+    nconst: String
     birthYear: Int!
     deathYear: Int
     primaryProfession: [String!]!
@@ -71,8 +71,16 @@ server.post('/theatro', async (req, res) => {
     for (let i = 0; i < people.length; i++)
         people[i] = people[i].name;
 
-    let msgToSend;
+    //Convert movies, people & categories to CamelCase
+    for (let i = 0; i < movies.length; i++)
+        movies[i] = handler.titleCase(movies[i]);
+    for (let i = 0; i < people.length; i++)
+        people[i] = handler.titleCase(people[i]);
+    for (let i = 0; i < categories.length; i++)
+        categories[i] = handler.titleCase(categories[i]);
 
+    //Handle the intent
+    let msgToSend;
     switch (intent) {
         case 'recommendation':
             msgToSend = await handler.handleRecommendation(movies, people, categories);
@@ -100,3 +108,6 @@ server.post('/theatro', async (req, res) => {
 server.listen((process.env.PORT || 3000), () => {
     console.log("Server is up and running on http://localhost:3000");
 });
+
+
+

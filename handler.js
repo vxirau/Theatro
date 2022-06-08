@@ -1,5 +1,14 @@
 'use strict';
 const fetch = require('node-fetch');
+const scrapeIt = require("scrape-it");
+
+exports.titleCase = function (str) {
+    var splitStr = str.toLowerCase().split(' ');
+    for (var i = 0; i < splitStr.length; i++)
+        splitStr[i] = splitStr[i].charAt(0).toUpperCase() + splitStr[i].substring(1);
+
+    return splitStr.join(' ');
+}
 
 exports.handleRecommendation = async function (productions, people, categories) {
     //We can have an empty recommendation (recommend me something random), or a
@@ -14,7 +23,7 @@ exports.handleSearch = async function (productions, people) {
         return "Sorry, I can't search that!";
     }
 
-    if (productions.length !== 0) {
+    if (productions.length > 0) {
         //Query a random production introduced
         //give me info about star wars or superman
         try {
@@ -24,6 +33,7 @@ exports.handleSearch = async function (productions, people) {
                     where: { title: "${productions[Math.floor(Math.random() * productions.length)]}" }
                     options: {limit: 1}
                 ) {
+                    tconst
                     title
                     genres
                     runtimeMinutes
@@ -56,7 +66,7 @@ exports.handleSearch = async function (productions, people) {
         }
     }
 
-    if (people.length !== 0) {
+    if (people.length > 0) {
         //Query a random person introduced
         try {
             let query =
@@ -65,6 +75,7 @@ exports.handleSearch = async function (productions, people) {
                     where: { name: "${people[Math.floor(Math.random() * people.length)]}" }
                     options: {limit: 1}
                 ) {
+                    nconst
                     name
                     birthYear
                     deathYear
@@ -108,7 +119,19 @@ function buildRecommendationResponse(recommendation) {
 
 }
 
-function buildProductionSearchResponse(production) {
+async function buildProductionSearchResponse(production) {
+    console.log(production);
+
+    //Perform a web scrapping so as to obtain image from imdb webpage
+    const url = `https://www.imdb.com/title/${production.tconst}/`;
+    const scrapeResult = await scrapeIt(url, {
+        avatar: {
+            selector: ".ipc-image",
+            attr: "src"
+        }
+    });
+    const avatarUrl = scrapeResult.data.avatar;
+
     let response = production.title + ' is an ' + production.genres[0] + ', ' +
         production.genres[1] + ' and ' + production.genres[2] + ' ' + production.titleType +
         ' produced by ' + production.directors[0].name + ' in ' + production.startYear + '. It lasts ' +
@@ -118,7 +141,20 @@ function buildProductionSearchResponse(production) {
     return response;
 }
 
-function buildPersonSearchResponse(person) {
+async function buildPersonSearchResponse(person) {
+    console.log(person);
+
+    //Perform a web scrapping so as to obtain image from imdb webpage
+    const url = `https://www.imdb.com/name/${person.nconst}/`;
+    const scrapeResult = await scrapeIt(url, {
+        avatar: {
+            selector: "#name-poster",
+            attr: "src"
+        }
+    });
+    const avatarUrl = scrapeResult.data.avatar;
+    console.log(avatarUrl);
+
     let response = person.name + ' (' + person.birthYear +
         (person.deathYear ? ' - ' + person.deathYear + ') was ' : ') is ') +
         'a ' + person.primaryProfession[0] + ', ' + person.primaryProfession[1] + ' and ' +
