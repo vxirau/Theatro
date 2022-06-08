@@ -70,7 +70,6 @@ server.post('/theatro', async (req, res) => {
             break;
         case 'search':
             msgToSend = await handler.handleSearch(movies, people);
-            console.log(msgToSend);
             break;
         default:
             msgToSend = 'Error';
