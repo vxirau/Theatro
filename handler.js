@@ -9,7 +9,7 @@ exports.titleCase = function (str) {
         splitStr[i] = splitStr[i].charAt(0).toUpperCase() + splitStr[i].substring(1);
 
     return splitStr.join(' ');
-}
+};
 
 exports.handleRecommendation = async function (productions, people, categories) {
     //We can have an empty recommendation (recommend me something random), or a
@@ -97,13 +97,12 @@ exports.handleRecommendation = async function (productions, people, categories) 
         }
     }
     else {
-        var startTime = performance.now()
         try {
             const randomValues = 100;
             let query =
                 `query {
                 prods (                    
-                    where: { titleType_INCLUDES: "movie", directors_SOME: {name_CONTAINS: "a"}, actors_SOME: {name_CONTAINS: "a"}, runtimeMinutes_NOT: null, tconst_NOT: null}
+                    where: { titleType_INCLUDES: "movie", directors_SOME: {name_CONTAINS: "a"}, actors_SOME: {name_CONTAINS: "a"}, runtimeMinutes_NOT: null, tconst_NOT: null, startYear_GT: 2005}
                     options: {limit: ${randomValues}}
                 ) {
                     tconst
@@ -133,8 +132,6 @@ exports.handleRecommendation = async function (productions, people, categories) 
             });
 
             const jsonResponse = await response.json();
-            var endTime = performance.now()
-            console.log(`Call to doSomething took ${endTime - startTime} milliseconds`)
             return buildRecommendationResponse(jsonResponse.data.prods[Math.floor(Math.random() * randomValues)]);
         } catch (e) {
             return "Sorry! My server had an unexpected error😟 Please, try again later";
