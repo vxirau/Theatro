@@ -1,34 +1,10 @@
 'use strict';
 const fetch = require('node-fetch');
 
-exports.handleRecommendation = async function (movies, people, categories) {
-    const query = `query {
-        movies (
-            where: { title: "What Dreams May Come" }
-        ) {
-            title
-            actors (where: { name_NOT: null }) { 
-                name
-            }
-            actorsConnection { 
-              totalCount
-            }
-        }
-    }`
-
-    const response = fetch('http://localhost:4000/', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json',
-            'Accept': 'application/json'
-        },
-        body: JSON.stringify({
-            query
-        })
-    }).then(res => res.text()).then(text => {
-        console.log(text);
-        return text;
-    });
+exports.handleRecommendation = async function (productions, people, categories) {
+    //We can have an empty recommendation (recommend me something random), or a
+    // recommendation that includes some productions, categories and even people
+    handleSearch(['Star Wars'], null);
 };
 
 
@@ -133,7 +109,6 @@ function buildRecommendationResponse(recommendation) {
 }
 
 function buildProductionSearchResponse(production) {
-    console.log(JSON.stringify(production));
     let response = production.title + ' is an ' + production.genres[0] + ', ' +
         production.genres[1] + ' and ' + production.genres[2] + ' ' + production.titleType +
         ' produced by ' + production.directors[0].name + ' in ' + production.startYear + '. It lasts ' +
@@ -144,7 +119,6 @@ function buildProductionSearchResponse(production) {
 }
 
 function buildPersonSearchResponse(person) {
-    console.log(JSON.stringify(person));
     let response = person.name + ' (' + person.birthYear +
         (person.deathYear ? ' - ' + person.deathYear + ') was ' : ') is ') +
         'a ' + person.primaryProfession[0] + ', ' + person.primaryProfession[1] + ' and ' +
