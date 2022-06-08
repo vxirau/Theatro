@@ -83,10 +83,32 @@ server.post('/theatro', async (req, res) => {
     let fulfillmentMessage;
     switch (intent) {
         case 'recommendation':
-            fulfillmentMessage = await handler.handleRecommendation(movies, people, categories);
+            try{
+                fulfillmentMessage = await handler.handleRecommendation(movies, people, categories);
+            } catch(e){
+                fulfillmentMessage =
+                {
+                    "text": {
+                        "text": [
+                            "Sorry, I haven't found anything on our database😟"
+                        ]
+                    }
+                };
+            }
             break;
         case 'information':
-            fulfillmentMessage = await handler.handleSearch(movies, people);
+            try{
+                fulfillmentMessage = await handler.handleSearch(movies, people);
+            } catch(e){
+                fulfillmentMessage = 
+                {
+                    "text": {
+                        "text": [
+                            "Sorry, I haven't found anything on our database😢"
+                        ]
+                    }
+                };
+            }
             break;
         default:
             fulfillmentMessage =
@@ -96,7 +118,7 @@ server.post('/theatro', async (req, res) => {
                         "Error"
                     ]
                 }
-            }
+            };
     }
 
     return res.json({
