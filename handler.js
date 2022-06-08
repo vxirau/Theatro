@@ -341,15 +341,15 @@ async function buildPersonSearchResponse(person) {
 
     let response = person.name + ' (' + person.birthYear +
         (person.deathYear ? ' - ' + person.deathYear + ') was ' : ') is ') +
-        'a ' + person.primaryProfession[0] + ', ' + person.primaryProfession[1] ?? + ' and ' +
-        person.primaryProfession[2] ?? + ' known for ' +
+        'a ' + person.primaryProfession[0] + ', ' + person.primaryProfession[1] + ' and ' +
+        person.primaryProfession[2] + ' known for ' +
         (person.productionsConnection.totalCount > 0 ? 'directing ' +
             person.productionsConnection.totalCount + ' productions (' +
-            person.productions[0].title ?? + ', ' + person.productions[1].title + ' and ' +
-            person.productions[2].title ?? + ', among others) ' + 'and ' : '') +
+            person.productions[0].title + ', ' + person.productions[1].title + ' and ' +
+            person.productions[2].title + ', among others) ' + 'and ' : '') +
         'acting in ' + person.moviesActedConnection.totalCount + ' movies (' +
-        person.moviesActed[0].title + ', ' + person.moviesActed[1].title ?? + ', ' +
-        person.moviesActed[2].title ?? + '...).';
+        person.moviesActed[0].title + ', ' + person.moviesActed[1].title + ', ' +
+        person.moviesActed[2].title + '...).';
 
     return {
         "card": {
