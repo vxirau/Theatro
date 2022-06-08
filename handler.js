@@ -120,8 +120,6 @@ function buildRecommendationResponse(recommendation) {
 }
 
 async function buildProductionSearchResponse(production) {
-    console.log(production);
-
     //Perform a web scrapping so as to obtain image from imdb webpage
     const url = `https://www.imdb.com/title/${production.tconst}/`;
     const scrapeResult = await scrapeIt(url, {
@@ -138,12 +136,17 @@ async function buildProductionSearchResponse(production) {
         production.runtimeMinutes + ' minutes and its most well-known actors are ' +
         production.actors[0].name + ' and ' + production.actors[1].name;
 
-    return response;
+    return {
+        "card": {
+            "title": production.name,
+            "subtitle": response,
+            "imageUri": avatarUrl
+        },
+        "platform": "TELEGRAM"
+    };
 }
 
 async function buildPersonSearchResponse(person) {
-    console.log(person);
-
     //Perform a web scrapping so as to obtain image from imdb webpage
     const url = `https://www.imdb.com/name/${person.nconst}/`;
     const scrapeResult = await scrapeIt(url, {
@@ -153,7 +156,6 @@ async function buildPersonSearchResponse(person) {
         }
     });
     const avatarUrl = scrapeResult.data.avatar;
-    console.log(avatarUrl);
 
     let response = person.name + ' (' + person.birthYear +
         (person.deathYear ? ' - ' + person.deathYear + ') was ' : ') is ') +
@@ -167,5 +169,12 @@ async function buildPersonSearchResponse(person) {
         person.moviesActed[0].title + ', ' + person.moviesActed[1].title + ', ' +
         person.moviesActed[2].title + '...).';
 
-    return response;
+    return {
+        "card": {
+            "title": person.name,
+            "subtitle": response,
+            "imageUri": avatarUrl
+        },
+        "platform": "TELEGRAM"
+    };
 }

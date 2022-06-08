@@ -80,27 +80,28 @@ server.post('/theatro', async (req, res) => {
         categories[i] = handler.titleCase(categories[i]);
 
     //Handle the intent
-    let msgToSend;
+    let fulfillmentMessage;
     switch (intent) {
         case 'recommendation':
-            msgToSend = await handler.handleRecommendation(movies, people, categories);
+            fulfillmentMessage = await handler.handleRecommendation(movies, people, categories);
             break;
         case 'information':
-            msgToSend = await handler.handleSearch(movies, people);
+            fulfillmentMessage = await handler.handleSearch(movies, people);
             break;
         default:
-            msgToSend = 'Error';
+            fulfillmentMessage =
+            {
+                "text": {
+                    "text": [
+                        "Error"
+                    ]
+                }
+            }
     }
 
     return res.json({
         "fulfillmentMessages": [
-            {
-                "text": {
-                    "text": [
-                        msgToSend
-                    ]
-                }
-            }
+            fulfillmentMessage
         ]
     });
 });
