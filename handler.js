@@ -13,7 +13,7 @@ exports.titleCase = function (str) {
 exports.handleRecommendation = async function (productions, people, categories) {
     //We can have an empty recommendation (recommend me something random), or a
     // recommendation that includes some productions, categories and even people
-    handleSearch(['Star Wars'], null);
+    exports.handleSearch(['Star Wars'], null);
 };
 
 
@@ -128,7 +128,7 @@ async function buildProductionSearchResponse(production) {
             attr: "src"
         }
     });
-    const avatarUrl = scrapeResult.data.avatar;
+    const avatarUrl = scrapeResult.data.avatar ?? '';
 
     let response = production.title + ' is an ' + production.genres[0] + ', ' +
         production.genres[1] + ' and ' + production.genres[2] + ' ' + production.titleType +
@@ -155,7 +155,7 @@ async function buildPersonSearchResponse(person) {
             attr: "src"
         }
     });
-    const avatarUrl = scrapeResult.data.avatar;
+    const avatarUrl = scrapeResult.data.avatar ?? '';
 
     let response = person.name + ' (' + person.birthYear +
         (person.deathYear ? ' - ' + person.deathYear + ') was ' : ') is ') +
