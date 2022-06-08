@@ -57,9 +57,8 @@ server.use(express.json());
 server.use(express.urlencoded({ extended: false }));
 
 
-server.get('/', (req, res) => {
-    res.write("Everything Working! Send a POST to /theatro");
-    return res;
+server.get('*', (req, res) => {
+    res.send("Everything Working! Send a POST to /theatro");
 });
 
 server.post('/theatro', async (req, res) => {
@@ -94,5 +93,5 @@ server.post('/theatro', async (req, res) => {
 });
 
 server.listen((process.env.PORT || 3000), () => {
-    console.log("Server is up and running on http://localhost:3000/");
+    console.log(`Server is up and running on http://localhost:${port}`);
 });
