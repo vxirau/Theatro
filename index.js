@@ -66,13 +66,18 @@ server.post('/theatro', async (req, res) => {
     const movies = req.body.queryResult.parameters.movie ?? [];
     const people = req.body.queryResult.parameters.person ?? [];
     const categories = req.body.queryResult.parameters.category ?? [];
+
+    //Convert person object to string
+    for (let i = 0; i < people.length; i++)
+        people[i] = people[i].name;
+
     let msgToSend;
 
     switch (intent) {
         case 'recommendation':
             msgToSend = await handler.handleRecommendation(movies, people, categories);
             break;
-        case 'search':
+        case 'information':
             msgToSend = await handler.handleSearch(movies, people);
             break;
         default:
