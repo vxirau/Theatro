@@ -146,8 +146,10 @@ exports.handleRecommendation = async function (productions, people, categories) 
 
 exports.handleSearch = async function (productions, people) {
     //We'll get the first movie or the first person we found, and search for data
+    console.log(productions);
+    console.log(people);
     if (productions.length === 0 && people.length === 0) {
-        return "Sorry, I can't search that!";
+        return "Sorry, I can't search that 😢";
     }
 
     if (productions.length > 0) {
@@ -187,7 +189,7 @@ exports.handleSearch = async function (productions, people) {
             });
 
             const jsonResponse = await response.json();
-
+            console.log(jsonResponse);
             return buildProductionSearchResponse(jsonResponse.data.prods[0]);
         } catch (e) {
             return "We don't have information about this movie😟 (this is unusual, are you sure you wrote it correctly?)";
@@ -235,6 +237,7 @@ exports.handleSearch = async function (productions, people) {
             });
 
             const jsonResponse = await response.json();
+            console.log(jsonResponse);
             return buildPersonSearchResponse(jsonResponse.data.people[0]);
         } catch (e) {
             return "We don't have information about this person😢  (this is unusual, are you sure you wrote the name correctly?)";
@@ -257,9 +260,9 @@ async function buildRecommendationResponse(production) {
     if (production.genres[0] == null) production.genres[0] = '';
     if (production.genres[1] == null) production.genres[0] = '';
     if (production.genres[2] == null) production.genres[0] = '';
-    if (production.directors[0] == null) production.directors[0] = { name: '' }
-    if (production.actors[0] == null) production.actors[0] = { name: '' }
-    if (production.actors[1] == null) production.actors[1] = { name: '' }
+    if (production.directors[0] == null) production.directors[0] = { name: '' };
+    if (production.actors[0] == null) production.actors[0] = { name: '' };
+    if (production.actors[1] == null) production.actors[1] = { name: '' };
 
     let response = production.title + ' is a ' + (production.genres[0].length === 0 ? '' : production.genres[0] + ', ' +
         production.genres[1] + ' and ' + production.genres[2] + ' ') + production.titleType +
@@ -291,9 +294,9 @@ async function buildProductionSearchResponse(production) {
     if (production.genres[0] == null) production.genres[0] = '';
     if (production.genres[1] == null) production.genres[0] = '';
     if (production.genres[2] == null) production.genres[0] = '';
-    if (production.directors[0] == null) production.directors[0] = { name: '' }
-    if (production.actors[0] == null) production.actors[0] = { name: '' }
-    if (production.actors[1] == null) production.actors[1] = { name: '' }
+    if (production.directors[0] == null) production.directors[0] = { name: '' };
+    if (production.actors[0] == null) production.actors[0] = { name: '' };
+    if (production.actors[1] == null) production.actors[1] = { name: '' };
 
     let response = production.title + ' is a ' + (production.genres[0].length === 0 ? '' : production.genres[0] + ', ' +
         production.genres[1] + ' and ' + production.genres[2] + ' ') + production.titleType +
