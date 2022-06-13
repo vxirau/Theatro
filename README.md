@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    A Telegram Movie and TV-Show Chatbot built using Dialogflow and Grakn’s knowledge graph
+    A Telegram Movie and TV-Show Chatbot built using Dialogflow and Neo4J
 </p>
 
 ## Introduction
