@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://nodejs.org">
     <img src="https://img.shields.io/badge/node.js-17.8-orange">
-  </a
+  </a>
   <a href="https://github.com/VXGamez/Theatro/tree/main/LICENSE">
     <img src="https://img.shields.io/badge/License-BSD%203-lightgrey.svg">
   </a>
@@ -26,6 +26,8 @@
 
 Contemporary chat ChatBots are easy to use and have the ability to simulate human conversations. However, they cannot evaluate large data sets to provide a response to the user. Instead, we have many free APIs that contain this data and can offer it given a number of parameters. In this we designed a server capable of listening to DialogFlow and processing them using a Graph database to improve the user experience and provide a higher volume of information than usual to the client. Using Google Dialogflow we analyze and GraphQL translates the Cypher query to request our Neo4J database, which analyzes and provides an accurate answer using a complete dataset and simulates a human-like conversation. Use the database to provide accurate answers using a response dataset and Google Dialogflow to simulate human interactions.
 
+If you wish to know more we wrote an entire article detailing how it works. It can be found on the documentation folder.
+
 To use it visit: [Theatro](t.me/TheatroBot)
 
 ## API
@@ -39,6 +41,10 @@ We can see how he interacts with Telegram here, but it will talk to DialogFlow w
 ## Example
 
 Here is a practical example to see how the TV-Chatbot works:
+
+> **User:** Hello!
+
+> **Theatro:** <br>Good day! What can i do for you today? 🎥⭐️
 
 > **User:** What do you know about star wars?
 
