@@ -48,11 +48,11 @@ Here is a practical example to see how the TV-Chatbot works:
 
 > **User:** What do you know about star wars?
 
-> **Theatro:** <br>Star Wars is Action, Adventure and Fantasy movie produced by George Lucas in 197. It lasts 121 minutes and its most well-known actors are Carrie Fisher and Harrison Ford <br><img src="/documentation/images/exampleImages/starwars.jpg" height=250px><br>
+> **Theatro:** <br>Star Wars is Action, Adventure and Fantasy movie produced by George Lucas in 197. It lasts 121 minutes and its most well-known actors are Carrie Fisher and Harrison Ford <br><br><img src="/documentation/images/exampleImages/starwars.jpg" height=250px><br>
 
 > **User:** Give me information about Steven Spielberg
 
-> **Theatro:** <br><strong>Steven Spielberg</strong> <br> Steven Spielberg (1946) is an American film director, producer, and screenwriter <br><img src="/documentation/images/exampleImages/spielberg.jpg" height=250px><br>
+> **Theatro:** <br><strong>Steven Spielberg</strong> <br> Steven Spielberg (1946) is an American film director, producer, and screenwriter <br><br><img src="/documentation/images/exampleImages/spielberg.jpg" height=250px><br>
 
 > **User:** Great! Thank you! Have a nice day!
 
